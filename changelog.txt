@@ -1,0 +1,8 @@
+1.0.50 - Animações Capital
+- 320 novas animações; 16 movimentos já existentes foram identificados e reutilizados.
+- Menu com 349 opções únicas em Danças, Exercícios, Gestos, Poses, Sentar, Deitar, Ações, Casal e Combate.
+- Favoritos preservados e catálogo sem o limite anterior de 128 itens.
+- Pacote de animações incluído no APK e na API, com validação SHA-256.
+- IDs antigos e animações de celular/rádio preservados.
+v17.1 - API local inicial.
+- Configure update.json com as URLs reais antes de publicar.

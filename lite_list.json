@@ -1,0 +1,3026 @@
+{
+    "files":  [
+                  {
+                      "name":  "alpine_binco_collision.col",
+                      "path":  "alpine/models/alpine_binco_collision.col",
+                      "size":  192512,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2331e6f542bfc037a00b.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine_binco_interior.dff",
+                      "path":  "alpine/models/alpine_binco_interior.dff",
+                      "size":  1640519,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d8be4ccb2adbc1eb9aca.dff",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine24h.col",
+                      "path":  "alpine/models/alpine24h.col",
+                      "size":  15982,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-838a68e6ec5e5c0d1c52.col",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "alpine24h.dff",
+                      "path":  "alpine/models/alpine24h.dff",
+                      "size":  940653,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-54bfadb7946043334650.dff",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine24h.txd",
+                      "path":  "alpine/models/alpine24h.txd",
+                      "size":  2012888,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-721114ee193e31565b56.txd",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ammu_ls.col",
+                      "path":  "alpine/models/ammu_ls.col",
+                      "size":  22204,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f01aabb6e47d69efd1bc.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ammu_ls.dff",
+                      "path":  "alpine/models/ammu_ls.dff",
+                      "size":  874509,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a3c9747e05c487f1ffde.dff",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ammu_ls.txd",
+                      "path":  "alpine/models/ammu_ls.txd",
+                      "size":  2585756,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-986119a46b69de2ca45d.txd",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "binco_exterior.col",
+                      "path":  "alpine/models/binco_exterior.col",
+                      "size":  2672,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7d7234961a3d881e7720.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "binco_exterior.dff",
+                      "path":  "alpine/models/binco_exterior.dff",
+                      "size":  293151,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e29709b79f5c4e2b7512.dff",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "binco_exterior.txd",
+                      "path":  "alpine/models/binco_exterior.txd",
+                      "size":  2513192,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e81a17e5e92e481dca87.txd",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.ifp",
+                      "path":  "anim/alpine.ifp",
+                      "size":  21116074,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9214ee14c1f6bf5d54ea.ifp",
+                      "gpu":  "NONE",
+                      "sha256":  "8aac3bdf5e5be881a088c9a7d892d7e2d78c4f1141ed0c5a24566e5cee8ed1b9"
+                  },
+                  {
+                      "name":  "anim.img",
+                      "path":  "anim/anim.img",
+                      "size":  10942464,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-06c5b25caaeace665f85.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "cuts.img",
+                      "path":  "anim/cuts.img",
+                      "size":  16029696,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b2abf92af94fb68e78de.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ped.ifp",
+                      "path":  "anim/ped.ifp",
+                      "size":  1433248,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bfdd9d3f0ff6d7d7b886.ifp",
+                      "gpu":  "all",
+                      "sha256":  "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac"
+                  },
+                  {
+                      "name":  "AudioEventHistory.txt",
+                      "path":  "audio/CONFIG/AudioEventHistory.txt",
+                      "size":  114056,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-85dd78376611408b10e8.txt",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "BankLkup.dat",
+                      "path":  "audio/CONFIG/BankLkup.dat",
+                      "size":  8520,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3fe51dc6acc38a3f5e5e.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "BankSlot.dat",
+                      "path":  "audio/CONFIG/BankSlot.dat",
+                      "size":  216902,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3a53f42a5e52e39de455.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "EventVol.dat",
+                      "path":  "audio/CONFIG/EventVol.dat",
+                      "size":  45402,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b9f93f230f9319b40236.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "PakFiles.dat",
+                      "path":  "audio/CONFIG/PakFiles.dat",
+                      "size":  468,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c1f8424e180ce93222a9.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SOUNDINF.DAT",
+                      "path":  "audio/CONFIG/SOUNDINF.DAT",
+                      "size":  746760,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d826b8092229a558e71a.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "StrmPaks.dat",
+                      "path":  "audio/CONFIG/StrmPaks.dat",
+                      "size":  272,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ead663818a3c522b738a.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TrakLkup.dat",
+                      "path":  "audio/CONFIG/TrakLkup.dat",
+                      "size":  23064,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1fdff9d3ed2828b01f07.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TRKHEAD.DAT",
+                      "path":  "audio/CONFIG/TRKHEAD.DAT",
+                      "size":  15506696,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-74c0a342674f411f5856.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "FEET.osw",
+                      "path":  "audio/SFX/FEET.osw",
+                      "size":  138118,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f36516f2ee8e74aed944.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "FEET.osw.idx",
+                      "path":  "audio/SFX/FEET.osw.idx",
+                      "size":  1220,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6e12a5a6f750b7368cca.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "GENRL.osw",
+                      "path":  "audio/SFX/GENRL.osw",
+                      "size":  9362373,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bbb5e11563fad0055a59.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "GENRL.osw.idx",
+                      "path":  "audio/SFX/GENRL.osw.idx",
+                      "size":  20868,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c5892032c641caf3c4cd.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "PAIN_A.osw",
+                      "path":  "audio/SFX/PAIN_A.osw",
+                      "size":  3247335,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-945cb754b8e1c9ea02cd.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "PAIN_A.osw.idx",
+                      "path":  "audio/SFX/PAIN_A.osw.idx",
+                      "size":  12836,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0ebb4c1a48ea114db021.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "AA.osw",
+                      "path":  "audio/STREAMS/AA.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-44efb03fb911d4b36e5b.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "AA.osw.idx",
+                      "path":  "audio/STREAMS/AA.osw.idx",
+                      "size":  1522,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ebc8e56974f7c485fd24.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ADVERTS.osw",
+                      "path":  "audio/STREAMS/ADVERTS.osw",
+                      "size":  3516982,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-836a6d389cca38578121.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ADVERTS.osw.idx",
+                      "path":  "audio/STREAMS/ADVERTS.osw.idx",
+                      "size":  1591,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-268600cc41b8520e0dd0.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "AMBIENCE.osw",
+                      "path":  "audio/STREAMS/AMBIENCE.osw",
+                      "size":  22719112,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-43ea61b11993944a5ee3.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "AMBIENCE.osw.idx",
+                      "path":  "audio/STREAMS/AMBIENCE.osw.idx",
+                      "size":  924,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8e93aede4ebed424e636.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "BEATS.osw",
+                      "path":  "audio/STREAMS/BEATS.osw",
+                      "size":  9415375,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-855bf254093f3470c605.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "BEATS.osw.idx",
+                      "path":  "audio/STREAMS/BEATS.osw.idx",
+                      "size":  234,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-52cf1fad80f211a13b00.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CH.osw",
+                      "path":  "audio/STREAMS/CH.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f7e4915c5ae45150c4bf.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CH.osw.idx",
+                      "path":  "audio/STREAMS/CH.osw.idx",
+                      "size":  2994,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0f846f2b10adf679ffca.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CO.osw",
+                      "path":  "audio/STREAMS/CO.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fb78eedde4e5f8bdda99.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CO.osw.idx",
+                      "path":  "audio/STREAMS/CO.osw.idx",
+                      "size":  3569,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d9866fb7678b85b8e8f7.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CR.osw",
+                      "path":  "audio/STREAMS/CR.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2e73f96b81eebdd8bda6.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CR.osw.idx",
+                      "path":  "audio/STREAMS/CR.osw.idx",
+                      "size":  3592,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-965a2028944fb491e5cc.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CUTSCENE.osw",
+                      "path":  "audio/STREAMS/CUTSCENE.osw",
+                      "size":  301175,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ae5d22237c44376353c4.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "CUTSCENE.osw.idx",
+                      "path":  "audio/STREAMS/CUTSCENE.osw.idx",
+                      "size":  3247,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d5782f29d14dc89048f8.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "DS.osw",
+                      "path":  "audio/STREAMS/DS.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-72d58c605633d77b570c.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "DS.osw.idx",
+                      "path":  "audio/STREAMS/DS.osw.idx",
+                      "size":  4121,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-442eca0d75c2c556e87f.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "HC.osw",
+                      "path":  "audio/STREAMS/HC.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-09627c44775c163d8639.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "HC.osw.idx",
+                      "path":  "audio/STREAMS/HC.osw.idx",
+                      "size":  2649,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-13642fb7badd63e19600.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "MH.osw",
+                      "path":  "audio/STREAMS/MH.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5dc8545aea4dc740d611.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "MH.osw.idx",
+                      "path":  "audio/STREAMS/MH.osw.idx",
+                      "size":  3500,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e061da8ec2f4153dc30c.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "MR.osw",
+                      "path":  "audio/STREAMS/MR.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9ae95d86c311bcedd9a2.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "MR.osw.idx",
+                      "path":  "audio/STREAMS/MR.osw.idx",
+                      "size":  3385,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8d9f5528f1f178a8f244.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "NJ.osw",
+                      "path":  "audio/STREAMS/NJ.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a3d7192ad61043cdb399.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "NJ.osw.idx",
+                      "path":  "audio/STREAMS/NJ.osw.idx",
+                      "size":  2994,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-608c33b53dc72b3958c0.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RE.osw",
+                      "path":  "audio/STREAMS/RE.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d33f984961a405192a9e.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RE.osw.idx",
+                      "path":  "audio/STREAMS/RE.osw.idx",
+                      "size":  3707,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9e1818bc138bf66c2800.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RG.osw",
+                      "path":  "audio/STREAMS/RG.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7463a7487a297f807c59.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RG.osw.idx",
+                      "path":  "audio/STREAMS/RG.osw.idx",
+                      "size":  3914,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0f751363e0a08502cecc.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TK.osw",
+                      "path":  "audio/STREAMS/TK.osw",
+                      "size":  15462,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ffce8e2b7e636a1bd468.osw",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TK.osw.idx",
+                      "path":  "audio/STREAMS/TK.osw.idx",
+                      "size":  2327,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-21cc952c709887e88145.idx",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "360Default1280x720.cfg",
+                      "path":  "data/360Default1280x720.cfg",
+                      "size":  10898,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-16cee6174f727f258e51.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "360Default960x720.cfg",
+                      "path":  "data/360Default960x720.cfg",
+                      "size":  10888,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a7b45c681ba45455693e.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "animgrp.dat",
+                      "path":  "data/animgrp.dat",
+                      "size":  3096,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7763607c60b25f7ab2df.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ar_stats.dat",
+                      "path":  "data/ar_stats.dat",
+                      "size":  3593,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d441adfbc321fdc5177d.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "carcols.dat",
+                      "path":  "data/carcols.dat",
+                      "size":  15361,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0bbdd1e46f3a664ebc90.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "cargrp.dat",
+                      "path":  "data/cargrp.dat",
+                      "size":  3963,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f0aa1d33005b9c461905.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "carmods.dat",
+                      "path":  "data/carmods.dat",
+                      "size":  9110,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7b17cd9a01953cb2f9c9.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "clothes.dat",
+                      "path":  "data/clothes.dat",
+                      "size":  5317,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d767ec2e6d70c563b065.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "colorcycle.dat",
+                      "path":  "data/colorcycle.dat",
+                      "size":  13248,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ec1ac1d105a9a00a4de5.dat",
+                      "gpu":  "all",
+                      "sha256":  "e8a32c7f55f716c0c066e5363ee0eda87989c5fcf70272d8d4efa2606e020dc8"
+                  },
+                  {
+                      "name":  "Cop.ped",
+                      "path":  "data/Decision/Allowed/Cop.ped",
+                      "size":  4908,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-69245c49830fa1249e96.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "Fireman.ped",
+                      "path":  "data/Decision/Allowed/Fireman.ped",
+                      "size":  4435,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-82edb9a462fcac9b2752.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "GangMbr.ped",
+                      "path":  "data/Decision/Allowed/GangMbr.ped",
+                      "size":  6194,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e8b78ba71885b4f69e02.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "Indoors.ped",
+                      "path":  "data/Decision/Allowed/Indoors.ped",
+                      "size":  2809,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7d8163aeaa85ed87e2b8.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_empty.ped",
+                      "path":  "data/Decision/Allowed/m_empty.ped",
+                      "size":  982,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-923be805384ab2a98561.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_norm.ped",
+                      "path":  "data/Decision/Allowed/m_norm.ped",
+                      "size":  4142,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8009479306f33ea754b6.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_plyr.ped",
+                      "path":  "data/Decision/Allowed/m_plyr.ped",
+                      "size":  2000,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e27a73fac1ce85197129.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_steal.ped",
+                      "path":  "data/Decision/Allowed/m_steal.ped",
+                      "size":  3663,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c5e27ddc211eaefcd5f3.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_tough.ped",
+                      "path":  "data/Decision/Allowed/m_tough.ped",
+                      "size":  3980,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8b9ef907f8e95cc86186.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "m_weak.ped",
+                      "path":  "data/Decision/Allowed/m_weak.ped",
+                      "size":  4062,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a77f4d66b9dc8f55d9bb.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "MISSION.grp",
+                      "path":  "data/Decision/Allowed/MISSION.grp",
+                      "size":  2758,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-084b6d315fdf565358ff.grp",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "R_Norm.ped",
+                      "path":  "data/Decision/Allowed/R_Norm.ped",
+                      "size":  6450,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-06c1c0a127b5225f0b68.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "R_Tough.ped",
+                      "path":  "data/Decision/Allowed/R_Tough.ped",
+                      "size":  6378,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0290d76c5020dabb2df3.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "R_Weak.ped",
+                      "path":  "data/Decision/Allowed/R_Weak.ped",
+                      "size":  6289,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d6c59a75f004ff41fc35.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RANDOM.grp",
+                      "path":  "data/Decision/Allowed/RANDOM.grp",
+                      "size":  4623,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-874df2b5d5524f730dbf.grp",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RANDOM.ped",
+                      "path":  "data/Decision/Allowed/RANDOM.ped",
+                      "size":  4142,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6b7fb58d4ac13c9438c2.ped",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "RANDOM2.grp",
+                      "path":  "data/Decision/Allowed/RANDOM2.grp",
+                      "size":  4623,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-90096938c7b9e736bd9a.grp",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "PedEvent.txt",
+                      "path":  "data/Decision/PedEvent.txt",
+                      "size":  1298,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-57adc16f75037d0de4f7.txt",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "default.dat",
+                      "path":  "data/default.dat",
+                      "size":  577,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3435305946e7207eba8b.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "default.ide",
+                      "path":  "data/default.ide",
+                      "size":  4679,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cd40cbe4acdc16e936d1.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "fonts.dat",
+                      "path":  "data/fonts.dat",
+                      "size":  3576,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-73bf0fa1b814d989bcfd.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "furnitur.dat",
+                      "path":  "data/furnitur.dat",
+                      "size":  16480,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-14092a2588d6dd629f0e.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gridref.dat",
+                      "path":  "data/gridref.dat",
+                      "size":  1498,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-881145aaf1556f2bb297.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gta.dat",
+                      "path":  "data/gta.dat",
+                      "size":  3776,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-10b677884bf2cb1a9205.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "handling.cfg",
+                      "path":  "data/handling.cfg",
+                      "size":  64532,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-31c91aaec5bc80d8aa73.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "info.zon",
+                      "path":  "data/info.zon",
+                      "size":  28139,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-450bfc754055ad3307ab.zon",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "mainV1.scm",
+                      "path":  "data/mainV1.scm",
+                      "size":  3169778,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8633edb61ccce80726f9.scm",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "map.zon",
+                      "path":  "data/map.zon",
+                      "size":  436,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cedec2b7609dae9b8e39.zon",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.IDE",
+                      "path":  "data/maps/alpine/alpine.IDE",
+                      "size":  80,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0757eba8fdfbd7db0644.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.IPL",
+                      "path":  "data/maps/alpine/alpine.IPL",
+                      "size":  370,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ea0239cab257043f0401.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.remove_world.json",
+                      "path":  "data/maps/alpine/alpine.remove_world.json",
+                      "size":  14920,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5fb970e046fc63f3d10e.json",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "favelas.ipl",
+                      "path":  "data/maps/alpine/favelas.ipl",
+                      "size":  220115,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3a8168a7c16f27404050.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "Audiozon.ipl",
+                      "path":  "data/maps/Audiozon.ipl",
+                      "size":  10802,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7ee75b4eb9cc8a8b021d.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countn2.ide",
+                      "path":  "data/maps/country/countn2.ide",
+                      "size":  35439,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-42e34050459df2ce45e0.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countn2.ipl",
+                      "path":  "data/maps/country/countn2.ipl",
+                      "size":  41665,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-57171c2ba10299a9b531.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countrye.ide",
+                      "path":  "data/maps/country/countrye.ide",
+                      "size":  34529,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5864236fcf159f0e0c3b.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countrye.ipl",
+                      "path":  "data/maps/country/countrye.ipl",
+                      "size":  49301,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-42bb488bcbc4b50dc970.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryN.ide",
+                      "path":  "data/maps/country/countryN.ide",
+                      "size":  11308,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8f2de01b3e27fd368b12.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryN.ipl",
+                      "path":  "data/maps/country/countryN.ipl",
+                      "size":  14407,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6d1a74c7eee136214325.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryS.ide",
+                      "path":  "data/maps/country/countryS.ide",
+                      "size":  18450,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2579e339dd7b601c3a64.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryS.ipl",
+                      "path":  "data/maps/country/countryS.ipl",
+                      "size":  33835,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-473edbfe11c9658ec47e.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryW.ide",
+                      "path":  "data/maps/country/countryW.ide",
+                      "size":  19704,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c2ce18613bc8ced59554.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "countryw.ipl",
+                      "path":  "data/maps/country/countryw.ipl",
+                      "size":  35057,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1f81d8b2e4afdbcfec85.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "counxref.ide",
+                      "path":  "data/maps/country/counxref.ide",
+                      "size":  8494,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-578c7c16bded18e55842.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "cull.ipl",
+                      "path":  "data/maps/cull.ipl",
+                      "size":  104318,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6dcc3180f3b16aec8beb.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "barriers.ide",
+                      "path":  "data/maps/generic/barriers.ide",
+                      "size":  1437,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5afe717bb9e1779eeec3.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "dynamic.ide",
+                      "path":  "data/maps/generic/dynamic.ide",
+                      "size":  4611,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4849e4f3e819ec87a6fe.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "dynamic2.ide",
+                      "path":  "data/maps/generic/dynamic2.ide",
+                      "size":  10510,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-29bbc60d3826bb1d49d5.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "multiobj.ide",
+                      "path":  "data/maps/generic/multiobj.ide",
+                      "size":  5020,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f796bc123d317708d0ee.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "procobj.ide",
+                      "path":  "data/maps/generic/procobj.ide",
+                      "size":  4755,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a8d3cae531bd7f875095.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegepart.ide",
+                      "path":  "data/maps/generic/vegepart.ide",
+                      "size":  8062,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a3bec47545e444705717.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int1.ide",
+                      "path":  "data/maps/interior/gen_int1.ide",
+                      "size":  2747,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-97c227e3f065df028445.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int1.ipl",
+                      "path":  "data/maps/interior/gen_int1.ipl",
+                      "size":  21074,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b99e9853909e0c9efdc2.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int2.ide",
+                      "path":  "data/maps/interior/gen_int2.ide",
+                      "size":  10941,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4f670886e2681d68a081.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int2.ipl",
+                      "path":  "data/maps/interior/gen_int2.ipl",
+                      "size":  1683,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-771378ca7fe6d6baf875.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int3.ide",
+                      "path":  "data/maps/interior/gen_int3.ide",
+                      "size":  3252,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cba6b8bbcaaf6ca095f9.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int3.ipl",
+                      "path":  "data/maps/interior/gen_int3.ipl",
+                      "size":  2091,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8a1bc27df0ea31b4af41.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int4.ide",
+                      "path":  "data/maps/interior/gen_int4.ide",
+                      "size":  2323,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-33c25fd96277b9c88c47.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int4.ipl",
+                      "path":  "data/maps/interior/gen_int4.ipl",
+                      "size":  1185,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2d0397015b9b269aec8a.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int5.ide",
+                      "path":  "data/maps/interior/gen_int5.ide",
+                      "size":  4682,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-91ad15d3cdb32313d1de.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_int5.ipl",
+                      "path":  "data/maps/interior/gen_int5.ipl",
+                      "size":  2988,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f3dadfb3ea256d728b29.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_intb.ide",
+                      "path":  "data/maps/interior/gen_intb.ide",
+                      "size":  5459,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9b36f4546300f9ce3c9e.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gen_intb.ipl",
+                      "path":  "data/maps/interior/gen_intb.ipl",
+                      "size":  1626,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-658c17aba6b01bad7284.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_cont.ide",
+                      "path":  "data/maps/interior/int_cont.ide",
+                      "size":  385,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-86323e3d8c0e94ac895f.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_cont.ipl",
+                      "path":  "data/maps/interior/int_cont.ipl",
+                      "size":  910,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9bbda06f0fbc94fa09a0.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_LA.ide",
+                      "path":  "data/maps/interior/int_LA.ide",
+                      "size":  6004,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c1ac4a155b9695f1cca0.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_LA.ipl",
+                      "path":  "data/maps/interior/int_LA.ipl",
+                      "size":  1312,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-09d2d6736afbc27ef286.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_SF.ide",
+                      "path":  "data/maps/interior/int_SF.ide",
+                      "size":  1260,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-dd33471bf964e303d367.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_SF.ipl",
+                      "path":  "data/maps/interior/int_SF.ipl",
+                      "size":  1334,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ff6cec0ce6c3f49c8ecc.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_veg.ide",
+                      "path":  "data/maps/interior/int_veg.ide",
+                      "size":  4684,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-34be9dc199857847c024.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "int_veg.ipl",
+                      "path":  "data/maps/interior/int_veg.ipl",
+                      "size":  5299,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-dcaeabf96b81e92cf066.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "propext.ide",
+                      "path":  "data/maps/interior/propext.ide",
+                      "size":  2340,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0c9d158a99580afdf61d.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "props.ide",
+                      "path":  "data/maps/interior/props.ide",
+                      "size":  26314,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9ab714c89e1f734f4d3a.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "props2.ide",
+                      "path":  "data/maps/interior/props2.ide",
+                      "size":  21174,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ce4f87d7b6a418d72d21.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "savehous.ide",
+                      "path":  "data/maps/interior/savehous.ide",
+                      "size":  1724,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f3d6b08a3d795069d53.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "savehous.ipl",
+                      "path":  "data/maps/interior/savehous.ipl",
+                      "size":  2959,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-096da3a7d2da18fb50a3.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "stadint.ide",
+                      "path":  "data/maps/interior/stadint.ide",
+                      "size":  2851,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f1a1d8c42c5d8b7be73.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "stadint.ipl",
+                      "path":  "data/maps/interior/stadint.ipl",
+                      "size":  6299,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-22c8b243555729a9125a.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAe.ide",
+                      "path":  "data/maps/LA/LAe.ide",
+                      "size":  12247,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a0d9b943742fc2df68a9.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAe.ipl",
+                      "path":  "data/maps/LA/LAe.ipl",
+                      "size":  27328,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-28d293568b27a76cf612.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAe2.ide",
+                      "path":  "data/maps/LA/LAe2.ide",
+                      "size":  21906,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9d930452a6e361bd380c.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAe2.ipl",
+                      "path":  "data/maps/LA/LAe2.ipl",
+                      "size":  33651,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ac3b8dd1b538a08d14e1.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAhills.ide",
+                      "path":  "data/maps/LA/LAhills.ide",
+                      "size":  10601,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9e2eadd5eef53ba8cb12.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAhills.ipl",
+                      "path":  "data/maps/LA/LAhills.ipl",
+                      "size":  34506,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9d77e1347424710fae40.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAn.ide",
+                      "path":  "data/maps/LA/LAn.ide",
+                      "size":  10828,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-999d6f5d7ce52ad8223b.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAn.ipl",
+                      "path":  "data/maps/LA/LAn.ipl",
+                      "size":  14264,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d1db64d24e6e11e4201a.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAn2.ide",
+                      "path":  "data/maps/LA/LAn2.ide",
+                      "size":  9565,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-89b234afb7ff83cc9e1d.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAn2.ipl",
+                      "path":  "data/maps/LA/LAn2.ipl",
+                      "size":  13185,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c318cc7d4b42a75de723.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAs.ide",
+                      "path":  "data/maps/LA/LAs.ide",
+                      "size":  12575,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7d8ce508caf0f14438a6.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAs.ipl",
+                      "path":  "data/maps/LA/LAs.ipl",
+                      "size":  22414,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8e6a394c8de3188f911d.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAs2.ide",
+                      "path":  "data/maps/LA/LAs2.ide",
+                      "size":  12363,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-994775836c6e1048c1fd.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAs2.ipl",
+                      "path":  "data/maps/LA/LAs2.ipl",
+                      "size":  38441,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ac913e35f45b0f1a4d64.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAw.ide",
+                      "path":  "data/maps/LA/LAw.ide",
+                      "size":  9412,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6cbfdf39f3942c132db9.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAw.ipl",
+                      "path":  "data/maps/LA/LAw.ipl",
+                      "size":  15105,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bafc60361a61bce62286.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAw2.ide",
+                      "path":  "data/maps/LA/LAw2.ide",
+                      "size":  11060,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4b3dfba00e84c96bafbf.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAw2.ipl",
+                      "path":  "data/maps/LA/LAw2.ipl",
+                      "size":  18232,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e2bf7a8c277f3dc2cced.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LaWn.ide",
+                      "path":  "data/maps/LA/LaWn.ide",
+                      "size":  13092,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-43416f6f62be57d7a66d.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LaWn.ipl",
+                      "path":  "data/maps/LA/LaWn.ipl",
+                      "size":  24330,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0a5e11653bb2ccd42968.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "LAxref.ide",
+                      "path":  "data/maps/LA/LAxref.ide",
+                      "size":  10477,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-408165bea28d7657ca29.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "leveldes.ide",
+                      "path":  "data/maps/leveldes/leveldes.ide",
+                      "size":  360,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fafec524ef85b4fc2503.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "leveldes.ipl",
+                      "path":  "data/maps/leveldes/leveldes.ipl",
+                      "size":  165,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c2cbe91311145c264376.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "levelmap.ide",
+                      "path":  "data/maps/leveldes/levelmap.ide",
+                      "size":  3194,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-451d077d86c408d633d6.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "levelmap.ipl",
+                      "path":  "data/maps/leveldes/levelmap.ipl",
+                      "size":  4675,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-33f939570bc452673cca.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "levelxre.ide",
+                      "path":  "data/maps/leveldes/levelxre.ide",
+                      "size":  9897,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8411a32b52bb8db044ce.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "seabed.ide",
+                      "path":  "data/maps/leveldes/seabed.ide",
+                      "size":  12039,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f93051488e165f990137.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "seabed.ipl",
+                      "path":  "data/maps/leveldes/seabed.ipl",
+                      "size":  23342,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4803635e55f2d519eff7.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "occlu.ipl",
+                      "path":  "data/maps/occlu.ipl",
+                      "size":  1012,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ea686c84ba2d50dd9e56.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "occluint.ipl",
+                      "path":  "data/maps/occluint.ipl",
+                      "size":  2338,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a05099550576ab1dfab0.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "occluLA.ipl",
+                      "path":  "data/maps/occluLA.ipl",
+                      "size":  35956,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b20c21b9de370be071ac.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "occlusf.ipl",
+                      "path":  "data/maps/occlusf.ipl",
+                      "size":  16114,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7efa53ca7b176dd89308.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "occluveg.ipl",
+                      "path":  "data/maps/occluveg.ipl",
+                      "size":  17944,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5acf39bd506df8ccf915.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "paths.ipl",
+                      "path":  "data/maps/paths.ipl",
+                      "size":  2658607,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2c1bbb7ce762a076944f.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "paths2.ipl",
+                      "path":  "data/maps/paths2.ipl",
+                      "size":  2292241,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4c5c5343f1489174605b.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "paths3.ipl",
+                      "path":  "data/maps/paths3.ipl",
+                      "size":  2428066,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b98d973681baaa27320f.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "paths4.ipl",
+                      "path":  "data/maps/paths4.ipl",
+                      "size":  253014,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cfafb70e1773c65f810b.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "paths5.ipl",
+                      "path":  "data/maps/paths5.ipl",
+                      "size":  457678,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-47a6b2c0b4e2d60f7bcc.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFe.ide",
+                      "path":  "data/maps/SF/SFe.ide",
+                      "size":  16224,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-47a1dc96d8ce345816df.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFe.ipl",
+                      "path":  "data/maps/SF/SFe.ipl",
+                      "size":  26707,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e3ef5b6f364f0fe0d5a3.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFn.ide",
+                      "path":  "data/maps/SF/SFn.ide",
+                      "size":  11219,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-209c43dc7d49ade7f480.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFn.ipl",
+                      "path":  "data/maps/SF/SFn.ipl",
+                      "size":  26201,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e49d1b7e88a2afbcfbc9.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFs.ide",
+                      "path":  "data/maps/SF/SFs.ide",
+                      "size":  18948,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-40c58ee3881226354abd.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFs.ipl",
+                      "path":  "data/maps/SF/SFs.ipl",
+                      "size":  37969,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bf55140e4d03d1a2bd51.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFSe.ide",
+                      "path":  "data/maps/SF/SFSe.ide",
+                      "size":  30227,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ed4218f211e75f8455bb.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFSe.ipl",
+                      "path":  "data/maps/SF/SFSe.ipl",
+                      "size":  53359,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-019675830fd22d05cae4.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFw.ide",
+                      "path":  "data/maps/SF/SFw.ide",
+                      "size":  16473,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cfa38cd37fffa5853a89.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFw.ipl",
+                      "path":  "data/maps/SF/SFw.ipl",
+                      "size":  29247,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-076f1ef12b951f353a6b.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SFxref.ide",
+                      "path":  "data/maps/SF/SFxref.ide",
+                      "size":  4631,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-238f791fb84d9e60370e.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tunnels.ipl",
+                      "path":  "data/maps/tunnels.ipl",
+                      "size":  3230,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ee259e219d4620094b41.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegasE.ide",
+                      "path":  "data/maps/vegas/vegasE.ide",
+                      "size":  35542,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b09ee9fd8e5304ae2289.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegasE.ipl",
+                      "path":  "data/maps/vegas/vegasE.ipl",
+                      "size":  61084,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fe113b18805f1d735c33.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "VegasN.ide",
+                      "path":  "data/maps/vegas/VegasN.ide",
+                      "size":  23715,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7516410dda2292bcd92c.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegasN.ipl",
+                      "path":  "data/maps/vegas/vegasN.ipl",
+                      "size":  36651,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1673b2562a162297b8c9.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "VegasS.ide",
+                      "path":  "data/maps/vegas/VegasS.ide",
+                      "size":  18656,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a698c1f47b7c0418007c.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegasS.ipl",
+                      "path":  "data/maps/vegas/vegasS.ipl",
+                      "size":  30343,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-80ac24f9c1d53ab51909.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "VegasW.ide",
+                      "path":  "data/maps/vegas/VegasW.ide",
+                      "size":  25456,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-588740da63541e2456a3.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegasW.ipl",
+                      "path":  "data/maps/vegas/vegasW.ipl",
+                      "size":  49867,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bf73a620820f1b2814a2.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegaxref.ide",
+                      "path":  "data/maps/vegas/vegaxref.ide",
+                      "size":  5751,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d3a4f0694d3cede99d58.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vegaxref.ipl",
+                      "path":  "data/maps/vegas/vegaxref.ipl",
+                      "size":  3661,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f9acd22637ffa99a097.ipl",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "veh_mods.ide",
+                      "path":  "data/maps/veh_mods/veh_mods.ide",
+                      "size":  7323,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-82e365f3ba1c7a194706.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "melee.dat",
+                      "path":  "data/melee.dat",
+                      "size":  6306,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6055a566248b0f953b7c.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "object.dat",
+                      "path":  "data/object.dat",
+                      "size":  124958,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fed4761a95ea795ae9b6.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "carrec.img",
+                      "path":  "data/paths/carrec.img",
+                      "size":  2357248,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4cb4e9fefbe2df3c0e05.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ROADBLOX.DAT",
+                      "path":  "data/paths/ROADBLOX.DAT",
+                      "size":  1304,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e39c8a4743d118fe414c.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tracks.dat",
+                      "path":  "data/paths/tracks.dat",
+                      "size":  25474,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8dbc99f1854abbab8d27.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tracks2.dat",
+                      "path":  "data/paths/tracks2.dat",
+                      "size":  1892,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d87466d32c687b1755d6.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tracks3.dat",
+                      "path":  "data/paths/tracks3.dat",
+                      "size":  8328,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cf14e1cb1707c28ad841.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tracks4.dat",
+                      "path":  "data/paths/tracks4.dat",
+                      "size":  18347,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5a1329155004ed6516e5.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ped.dat",
+                      "path":  "data/ped.dat",
+                      "size":  1276,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ed431bc2760b030d03a8.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "pedgrp.dat",
+                      "path":  "data/pedgrp.dat",
+                      "size":  5792,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5886d2565ddcb5b64f6a.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "peds.ide",
+                      "path":  "data/peds.ide",
+                      "size":  33401,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f3373de0f608407e5c76.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "pedstats.dat",
+                      "path":  "data/pedstats.dat",
+                      "size":  3604,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-64aed480306d6f0c9d13.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "plants.dat",
+                      "path":  "data/plants.dat",
+                      "size":  9887,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f1709c79648b3f8b2339.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "popcycle.dat",
+                      "path":  "data/popcycle.dat",
+                      "size":  127108,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0ffecbe5723e954edf51.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "procobj.dat",
+                      "path":  "data/procobj.dat",
+                      "size":  10019,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-26cf5e2b464a434e8472.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "mainV1.scm",
+                      "path":  "data/script/mainV1.scm",
+                      "size":  3169739,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a41ae208b42bb0f9f962.scm",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "scriptv1.img",
+                      "path":  "data/script/scriptv1.img",
+                      "size":  561152,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-423b2ce0a95b6523df46.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "scriptv1.img",
+                      "path":  "data/scriptv1.img",
+                      "size":  561152,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8805ced6421cb8a18741.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "shopping.dat",
+                      "path":  "data/shopping.dat",
+                      "size":  46875,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f6e4e4907e1de0628e52.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "ShopUVs.dat",
+                      "path":  "data/ShopUVs.dat",
+                      "size":  30509,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b0c5719764f132b893ed.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine_skybox.dff",
+                      "path":  "data/skybox/alpine_skybox.dff",
+                      "size":  8156,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-32c8aef235bb290f1708.dff",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "alpine_skyboxes.dat",
+                      "path":  "data/skybox/alpine_skyboxes.dat",
+                      "size":  739,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9c4ad3b98c39c30cec47.dat",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "statdisp.dat",
+                      "path":  "data/statdisp.dat",
+                      "size":  7292,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b63e6c923d897640578e.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "surface.dat",
+                      "path":  "data/surface.dat",
+                      "size":  576,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-aa5cd912a728a4240ce7.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "surfaud.dat",
+                      "path":  "data/surfaud.dat",
+                      "size":  6530,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-29d5a8970c12dccb2f93.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "surfinfo.dat",
+                      "path":  "data/surfinfo.dat",
+                      "size":  28106,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-eee013569ea9a43eda73.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "timecyc.dat",
+                      "path":  "data/timecyc.dat",
+                      "size":  40037,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a4d5e4824100e9b3b34b.dat",
+                      "gpu":  "all",
+                      "sha256":  "0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b"
+                  },
+                  {
+                      "name":  "timecycp.dat",
+                      "path":  "data/timecycp.dat",
+                      "size":  40520,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bff1f31f884e1244a81d.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TouchDefaultPhone3x2.cfg",
+                      "path":  "data/TouchDefaultPhone3x2.cfg",
+                      "size":  10912,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4234394d1804a31a29a8.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TouchDefaultPhoneWidescreen.cfg",
+                      "path":  "data/TouchDefaultPhoneWidescreen.cfg",
+                      "size":  10924,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b68dfcae90aca3154ed0.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TouchDefaultTablet4x3.cfg",
+                      "path":  "data/TouchDefaultTablet4x3.cfg",
+                      "size":  10926,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c255574886fabf601d3f.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TouchDefaultTabletWidescreen.cfg",
+                      "path":  "data/TouchDefaultTabletWidescreen.cfg",
+                      "size":  10923,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3a383fb8df87b1ee124e.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "txdcut.ide",
+                      "path":  "data/txdcut.ide",
+                      "size":  478,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8976df712973fed64358.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vehicles.ide",
+                      "path":  "data/vehicles.ide",
+                      "size":  21093,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3be4c4503d9b20663a93.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "water.dat",
+                      "path":  "data/water.dat",
+                      "size":  78001,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8819418e531c18a9d02a.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "water1.dat",
+                      "path":  "data/water1.dat",
+                      "size":  60063,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b68d4353431be762ba9e.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "weapon.dat",
+                      "path":  "data/weapon.dat",
+                      "size":  11602,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7c604fecc918c6ae9970.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "arial_bold.ttf",
+                      "path":  "fonts/arial_bold.ttf",
+                      "size":  352224,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b3ebb293d7f04e690bec.ttf",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gtaweap3.ttf",
+                      "path":  "fonts/gtaweap3.ttf",
+                      "size":  104004,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f30a98767e5fcdd15c0d.ttf",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "roboto_condensed.ttf",
+                      "path":  "fonts/roboto_condensed.ttf",
+                      "size":  371616,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3d0fe7d203909d6ca713.ttf",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "roboto_condensed_OFL.txt",
+                      "path":  "fonts/roboto_condensed_OFL.txt",
+                      "size":  4393,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ba12410d0b80b07abcc8.txt",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "sampaux3.ttf",
+                      "path":  "fonts/sampaux3.ttf",
+                      "size":  7376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fb6bf3aa9edb7bd3665b.ttf",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "full_list.json",
+                      "path":  "full_list.json",
+                      "size":  100592,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ecce27a66cdd5621685a.json",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "lite_list.json",
+                      "path":  "lite_list.json",
+                      "size":  100592,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7ddba649bccbae4d712d.json",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "peds.col",
+                      "path":  "models/coll/peds.col",
+                      "size":  21477,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2f35f6f0b118322fa043.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vehicles.col",
+                      "path":  "models/coll/vehicles.col",
+                      "size":  1096,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9b43a5a021a2eef85358.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "weapons.col",
+                      "path":  "models/coll/weapons.col",
+                      "size":  560,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a65bc39788b09ec3aedf.col",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "effects.fxp",
+                      "path":  "models/effects.fxp",
+                      "size":  616708,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c5db22c298ee5b4a17b7.fxp",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alyn_logo.png",
+                      "path":  "SAMP/alyn_logo.png",
+                      "size":  2308685,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cd0a15ee56f8283c2fc5.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "blockpunch.png",
+                      "path":  "SAMP/blockpunch.png",
+                      "size":  117414,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-38234a8f6b6aedaf9de4.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "blockpunch_hover.png",
+                      "path":  "SAMP/blockpunch_hover.png",
+                      "size":  90283,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7d2c7fb76940a6e21590.png",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "colorcycle.dat",
+                      "path":  "SAMP/colorcycle.dat",
+                      "size":  13612,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-276d72be77526fa831a9.dat",
+                      "gpu":  "all",
+                      "sha256":  "d04a9eb1cfa3ae2124fafe5993a2b20438b73124145e47c5981ef73e613babf1"
+                  },
+                  {
+                      "name":  "gta.dat",
+                      "path":  "SAMP/gta.dat",
+                      "size":  3816,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cba0827c60fd3285b7b4.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "handling.cfg",
+                      "path":  "SAMP/handling.cfg",
+                      "size":  64532,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-944d236341dffdc6ce3d.cfg",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "main.scm",
+                      "path":  "SAMP/main.scm",
+                      "size":  96997,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-96afa24d2f1a62d0e7da.scm",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "peds.ide",
+                      "path":  "SAMP/peds.ide",
+                      "size":  36369,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ad4d25e7c87c28f9af7e.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "SAMP.ide",
+                      "path":  "SAMP/SAMP.ide",
+                      "size":  89660,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1eb3dc83e27d4023dbc2.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "script.img",
+                      "path":  "SAMP/script.img",
+                      "size":  184320,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-18727ddc253306fec956.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "TIMECYC.DAT",
+                      "path":  "SAMP/timecyc.dat",
+                      "size":  39154,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-667032b3d802c1e271a5.dat",
+                      "gpu":  "all",
+                      "sha256":  "b2070a88b99a410dc704d47b0648c214917855ba6c4fbda777ffbd3332d6fae9"
+                  },
+                  {
+                      "name":  "tracks2.dat",
+                      "path":  "SAMP/tracks2.dat",
+                      "size":  1,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e5535894161ca08b0724.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "tracks4.dat",
+                      "path":  "SAMP/tracks4.dat",
+                      "size":  1,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c4ffb8edbe64cfdf4e8f.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "vehicles.ide",
+                      "path":  "SAMP/vehicles.ide",
+                      "size":  21093,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-eb916254bfba0c9196cd.ide",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "water.dat",
+                      "path":  "SAMP/water.dat",
+                      "size":  70099,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5e923b3b88b6fc68385b.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "water1.dat",
+                      "path":  "SAMP/water1.dat",
+                      "size":  60063,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-98f05290626bc65eaa6e.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "WEAPON.dat",
+                      "path":  "SAMP/WEAPON.dat",
+                      "size":  11585,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3cd0c67abf89cf4c485c.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "samp_list.json",
+                      "path":  "samp_list.json",
+                      "size":  21,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4bc726bfbd5584b527d4.json",
+                      "gpu":  "NONE"
+                  },
+                  {
+                      "name":  "stream.ini",
+                      "path":  "stream.ini",
+                      "size":  186,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f3662935bf1a32f2ea05.ini",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.img",
+                      "path":  "texdb/alpine.img",
+                      "size":  2158592,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-768d49c0c310f75e67e1.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine.dxt.dat",
+                      "path":  "texdb/alpine/alpine.dxt.dat",
+                      "size":  1747388,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-51e22d66440146219411.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine.dxt.tmb",
+                      "path":  "texdb/alpine/alpine.dxt.tmb",
+                      "size":  3680,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ce8e9c0945a837d697ee.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine.dxt.toc",
+                      "path":  "texdb/alpine/alpine.dxt.toc",
+                      "size":  324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e1f3f8b40217b2197c83.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "cbfded93134c150776be72eb20a61c6da584725b0fc667fc78753d03de65704d"
+                  },
+                  {
+                      "name":  "alpine.etc.dat",
+                      "path":  "texdb/alpine/alpine.etc.dat",
+                      "size":  1504996,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7bed3b1b8cec7ea3c5ac.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine.etc.tmb",
+                      "path":  "texdb/alpine/alpine.etc.tmb",
+                      "size":  3328,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0db21f28afd2448dfaa4.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine.etc.toc",
+                      "path":  "texdb/alpine/alpine.etc.toc",
+                      "size":  324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fe63d2eb85b824396ceb.toc",
+                      "gpu":  "etc",
+                      "sha256":  "62cd1c67fe48dd0c9ac2398f52c4a936130c607da1ae59956d37c6f18fa3e4ec"
+                  },
+                  {
+                      "name":  "alpine.pvr.dat",
+                      "path":  "texdb/alpine/alpine.pvr.dat",
+                      "size":  1512516,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-45ce791370193995b47f.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine.pvr.tmb",
+                      "path":  "texdb/alpine/alpine.pvr.tmb",
+                      "size":  3840,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6db7935b2a3dae44324c.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine.pvr.toc",
+                      "path":  "texdb/alpine/alpine.pvr.toc",
+                      "size":  324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-91c3799b2e550816e6bb.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "d5da17a7f8a554a0b3d3b6d11feeca6b24e99e2a71a5c33183e6214c9da49abe"
+                  },
+                  {
+                      "name":  "alpine.txt",
+                      "path":  "texdb/alpine/alpine.txt",
+                      "size":  4047,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e49ca51038d49d6ad1a9.txt",
+                      "gpu":  "all",
+                      "sha256":  "a46306d90ed51659087cb17590eab1969641022962a8599f6588f5d9ec5884ad"
+                  },
+                  {
+                      "name":  "alpine_ammu.dxt.dat",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.dxt.dat",
+                      "size":  2590620,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b29a36c6fc75911f5c67.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_ammu.dxt.tmb",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.dxt.tmb",
+                      "size":  4496,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bea4e9dbbc1703de22de.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_ammu.dxt.toc",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.dxt.toc",
+                      "size":  380,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-964459f36701508b756b.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "d50e19b6edb1e615b7846c477571d9ea12ce4417400e853a8b48e2e04c835437"
+                  },
+                  {
+                      "name":  "alpine_ammu.etc.dat",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.etc.dat",
+                      "size":  2317404,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-251047bea5379730613c.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_ammu.etc.tmb",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.etc.tmb",
+                      "size":  4224,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e4c1df50bc8aed265c24.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_ammu.etc.toc",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.etc.toc",
+                      "size":  380,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-025750a3fbc54469d990.toc",
+                      "gpu":  "etc",
+                      "sha256":  "65abda61b09e0343a2ab757b713b5c55b24a1ee6ec015fcc3cda23a6e02094f1"
+                  },
+                  {
+                      "name":  "alpine_ammu.pvr.dat",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.pvr.dat",
+                      "size":  2324460,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f08d9ec6ac9b5a8adbe0.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_ammu.pvr.tmb",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.pvr.tmb",
+                      "size":  4512,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-323c4a3cde07c9954b21.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_ammu.pvr.toc",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.pvr.toc",
+                      "size":  380,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-04fa7ae6ae5729ee5b89.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "11ab30cd53abb9751eeaa2cbe451da57d521ba3341adb6cb2d3a86267d1a5f4a"
+                  },
+                  {
+                      "name":  "alpine_ammu.txt",
+                      "path":  "texdb/alpine_ammu/alpine_ammu.txt",
+                      "size":  4790,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fe9d046c4f12bbeb9356.txt",
+                      "gpu":  "all",
+                      "sha256":  "392b68941e1968ebf171073bad38f42068083118eefac979416035b42929e887"
+                  },
+                  {
+                      "name":  "alpine_binco.dxt.dat",
+                      "path":  "texdb/alpine_binco/alpine_binco.dxt.dat",
+                      "size":  3561698,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e1c232032b917b3e1aa3.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_binco.dxt.tmb",
+                      "path":  "texdb/alpine_binco/alpine_binco.dxt.tmb",
+                      "size":  5296,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4f184592ebb387b4d916.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_binco.dxt.toc",
+                      "path":  "texdb/alpine_binco/alpine_binco.dxt.toc",
+                      "size":  456,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-10df706470816be5e965.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "7a178c723d4c87b8defd6346b87ca3c51bfda69d557ab66c0c7c528cc2730431"
+                  },
+                  {
+                      "name":  "alpine_binco.etc.dat",
+                      "path":  "texdb/alpine_binco/alpine_binco.etc.dat",
+                      "size":  3047072,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3f987da9e80a4d74dd4c.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_binco.etc.tmb",
+                      "path":  "texdb/alpine_binco/alpine_binco.etc.tmb",
+                      "size":  5056,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b75149259c93d70e5d0c.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_binco.etc.toc",
+                      "path":  "texdb/alpine_binco/alpine_binco.etc.toc",
+                      "size":  456,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a6c1bb4d8d8fc479a113.toc",
+                      "gpu":  "etc",
+                      "sha256":  "f7cf3f8e970f6ce74ed001b8013a3f1bbfec60bcac249093f622678ea7d7ebad"
+                  },
+                  {
+                      "name":  "alpine_binco.pvr.dat",
+                      "path":  "texdb/alpine_binco/alpine_binco.pvr.dat",
+                      "size":  2988742,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-dc54fdcf203c52b348e1.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_binco.pvr.tmb",
+                      "path":  "texdb/alpine_binco/alpine_binco.pvr.tmb",
+                      "size":  5488,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-06106d1439b82572caa7.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_binco.pvr.toc",
+                      "path":  "texdb/alpine_binco/alpine_binco.pvr.toc",
+                      "size":  456,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2b88c5c667933687f217.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "fd7459caaff5b795530511417fd54b41d6324812e789fdd22e66377fed787ee6"
+                  },
+                  {
+                      "name":  "alpine_binco.txt",
+                      "path":  "texdb/alpine_binco/alpine_binco.txt",
+                      "size":  5706,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-db421bc098af0a373cac.txt",
+                      "gpu":  "all",
+                      "sha256":  "401a71cd2fa8996d6b0d985e285453554f86cbf90ffa5f87979c253a570a8289"
+                  },
+                  {
+                      "name":  "alpine_probe.dxt.dat",
+                      "path":  "texdb/alpine_probe/alpine_probe.dxt.dat",
+                      "size":  48,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d35d63c287b6c4642003.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_probe.dxt.toc",
+                      "path":  "texdb/alpine_probe/alpine_probe.dxt.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d457c2da003f0352e285.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "4779cee98e83f1a1592de4f293107545fabab96772e43de89f3437b35f08938f"
+                  },
+                  {
+                      "name":  "alpine_probe.etc.dat",
+                      "path":  "texdb/alpine_probe/alpine_probe.etc.dat",
+                      "size":  48,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c6a0cd7eb54c38b3a0c2.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_probe.etc.toc",
+                      "path":  "texdb/alpine_probe/alpine_probe.etc.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bfc9e24121f303b009d4.toc",
+                      "gpu":  "etc",
+                      "sha256":  "4779cee98e83f1a1592de4f293107545fabab96772e43de89f3437b35f08938f"
+                  },
+                  {
+                      "name":  "alpine_probe.pvr.dat",
+                      "path":  "texdb/alpine_probe/alpine_probe.pvr.dat",
+                      "size":  48,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-da630bd6ba64d0d2a329.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_probe.pvr.toc",
+                      "path":  "texdb/alpine_probe/alpine_probe.pvr.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6d35c2e94ac245e31373.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "4779cee98e83f1a1592de4f293107545fabab96772e43de89f3437b35f08938f"
+                  },
+                  {
+                      "name":  "alpine_probe.txt",
+                      "path":  "texdb/alpine_probe/alpine_probe.txt",
+                      "size":  133,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-953f5dd2ff4b66541b4e.txt",
+                      "gpu":  "all",
+                      "sha256":  "ceeddf2ca31a4c45b5888d6e793a7ca80419511ef53670481c01f84e6f289cba"
+                  },
+                  {
+                      "name":  "alpine_probe.unc.dat",
+                      "path":  "texdb/alpine_probe/alpine_probe.unc.dat",
+                      "size":  48,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f73fd4a8b81e3dad4a68.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "alpine_probe.unc.toc",
+                      "path":  "texdb/alpine_probe/alpine_probe.unc.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-abfb9267514b3795364e.toc",
+                      "gpu":  "all",
+                      "sha256":  "4779cee98e83f1a1592de4f293107545fabab96772e43de89f3437b35f08938f"
+                  },
+                  {
+                      "name":  "alpine_skybox.dxt.dat",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.dxt.dat",
+                      "size":  22369636,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6bb9838dd9b18622f76b.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_skybox.dxt.tmb",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.dxt.tmb",
+                      "size":  272,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-13221cec8412affe6722.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "alpine_skybox.dxt.toc",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.dxt.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1f3e689fffcca723fa7f.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "8d6648533af514b11f00730f7333da9409c104173fc12be6ed60606d208a0d8e"
+                  },
+                  {
+                      "name":  "alpine_skybox.etc.dat",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.etc.dat",
+                      "size":  22369636,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f0b5425c24ca88e5e22c.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_skybox.etc.tmb",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.etc.tmb",
+                      "size":  272,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-429d0dff6dd1d8b1f2d3.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "alpine_skybox.etc.toc",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.etc.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b88955d0696409d72ffa.toc",
+                      "gpu":  "etc",
+                      "sha256":  "8d6648533af514b11f00730f7333da9409c104173fc12be6ed60606d208a0d8e"
+                  },
+                  {
+                      "name":  "alpine_skybox.pvr.dat",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.pvr.dat",
+                      "size":  22369636,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-96084039e14e730c7004.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_skybox.pvr.tmb",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.pvr.tmb",
+                      "size":  272,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-81d5d9ef66f6acb4ac20.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "alpine_skybox.pvr.toc",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.pvr.toc",
+                      "size":  8,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6d6614449ac50a19c6e5.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "8d6648533af514b11f00730f7333da9409c104173fc12be6ed60606d208a0d8e"
+                  },
+                  {
+                      "name":  "alpine_skybox.txt",
+                      "path":  "texdb/alpine_skybox/alpine_skybox.txt",
+                      "size":  114,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-baf9423c03cd028e67b1.txt",
+                      "gpu":  "NONE",
+                      "sha256":  "f12b54215c9feb6c4c1a335fa2a766d2f964529300a29550eb5075178eaae4bd"
+                  },
+                  {
+                      "name":  "cutscene.img",
+                      "path":  "texdb/cutscene.img",
+                      "size":  16029696,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4bc2fcc9797737be0f1b.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "cutscene.dxt.dat",
+                      "path":  "texdb/cutscene/cutscene.dxt.dat",
+                      "size":  5731070,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9061fcfe44a253ace0e0.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "cutscene.dxt.tmb",
+                      "path":  "texdb/cutscene/cutscene.dxt.tmb",
+                      "size":  19440,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f041ca3ff386a8616e71.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "cutscene.dxt.toc",
+                      "path":  "texdb/cutscene/cutscene.dxt.toc",
+                      "size":  1628,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-79edb66ca96002f4096a.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6"
+                  },
+                  {
+                      "name":  "cutscene.etc.dat",
+                      "path":  "texdb/cutscene/cutscene.etc.dat",
+                      "size":  5482370,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5352ecadf61416622bc0.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "cutscene.etc.tmb",
+                      "path":  "texdb/cutscene/cutscene.etc.tmb",
+                      "size":  20784,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ef68184c4e5d183d5a96.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "cutscene.etc.toc",
+                      "path":  "texdb/cutscene/cutscene.etc.toc",
+                      "size":  1628,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7dcc5a2f1b2a08b50699.toc",
+                      "gpu":  "etc",
+                      "sha256":  "b546d49a576ca2bbf126a6522f5b7d28a54cf31ebc6abc11207b08569a9a0edb"
+                  },
+                  {
+                      "name":  "cutscene.pvr.dat",
+                      "path":  "texdb/cutscene/cutscene.pvr.dat",
+                      "size":  3614492,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-24c654ef4d9cdf957522.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "cutscene.pvr.tmb",
+                      "path":  "texdb/cutscene/cutscene.pvr.tmb",
+                      "size":  30608,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3afb3113f806503d09cb.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "cutscene.pvr.toc",
+                      "path":  "texdb/cutscene/cutscene.pvr.toc",
+                      "size":  1628,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-eac7ddb959196e0a7373.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "99b4e1b255e88effa0c8d8e064d6888e8d493de07337cdfcf59c32c633d348a2"
+                  },
+                  {
+                      "name":  "cutscene.txt",
+                      "path":  "texdb/cutscene/cutscene.txt",
+                      "size":  24626,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-90fc0b6ed9fc5ce8ce2f.txt",
+                      "gpu":  "all",
+                      "sha256":  "48e9f39481b3cf6214883918901e98d6f1d4984a79ec5e35f8067c6b3414f27d"
+                  },
+                  {
+                      "name":  "cutscene.unc.tmb",
+                      "path":  "texdb/cutscene/cutscene.unc.tmb",
+                      "size":  56304,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-327c831fd1ed4cc4a76b.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gta_int.img",
+                      "path":  "texdb/gta_int.img",
+                      "size":  54095872,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-705ddf25d77151221e1c.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gta_int.dxt.dat",
+                      "path":  "texdb/gta_int/gta_int.dxt.dat",
+                      "size":  48496978,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d91453a2f83430e7cf0e.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "gta_int.dxt.tmb",
+                      "path":  "texdb/gta_int/gta_int.dxt.tmb",
+                      "size":  125994,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1b622796f76842cd9e98.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "gta_int.dxt.toc",
+                      "path":  "texdb/gta_int/gta_int.dxt.toc",
+                      "size":  10168,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-878cefabb236244cf679.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "9e265844e5b6d4481022e622a7295e3271c362c824f2a3b89e45221622f0b413"
+                  },
+                  {
+                      "name":  "gta_int.etc.dat",
+                      "path":  "texdb/gta_int/gta_int.etc.dat",
+                      "size":  48441188,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fa21b9433e9a599e0529.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "gta_int.etc.tmb",
+                      "path":  "texdb/gta_int/gta_int.etc.tmb",
+                      "size":  141674,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-55ce5a35ccb23682bb4a.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "gta_int.etc.toc",
+                      "path":  "texdb/gta_int/gta_int.etc.toc",
+                      "size":  10168,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-743d42d6060b2e9ab5a6.toc",
+                      "gpu":  "etc",
+                      "sha256":  "33ef48f0a26bb59b2d4ee5ff9be0473a62c8e527ab48e2903671cc5042ad5d43"
+                  },
+                  {
+                      "name":  "gta_int.pvr.dat",
+                      "path":  "texdb/gta_int/gta_int.pvr.dat",
+                      "size":  29595400,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a88c9961780ebcd6eba4.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "gta_int.pvr.tmb",
+                      "path":  "texdb/gta_int/gta_int.pvr.tmb",
+                      "size":  188330,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e77065a51b5cd19a4d3f.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "gta_int.pvr.toc",
+                      "path":  "texdb/gta_int/gta_int.pvr.toc",
+                      "size":  10168,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-aa6205720c1583f1eba0.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "32caffad50391842a3fc6ff2b8f6756487d132c29a45d26bc8c89ab06b473b30"
+                  },
+                  {
+                      "name":  "gta_int.txt",
+                      "path":  "texdb/gta_int/gta_int.txt",
+                      "size":  159541,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a83bdee9e11dde5aadd0.txt",
+                      "gpu":  "all",
+                      "sha256":  "b1a29772a053624a9e2d4a1b3dfaee038919c740b9731ab26e82d67cc036b8dc"
+                  },
+                  {
+                      "name":  "gta_int.unc.tmb",
+                      "path":  "texdb/gta_int/gta_int.unc.tmb",
+                      "size":  352202,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-62a6f750c8dbaeb16a22.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gta3.img",
+                      "path":  "texdb/gta3.img",
+                      "size":  288587776,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-25f8e8ffc79bf4e3c9cd.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "gta3.dxt.dat",
+                      "path":  "texdb/gta3/gta3.dxt.dat",
+                      "size":  223140822,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8edfba240eb918501370.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "gta3.dxt.tmb",
+                      "path":  "texdb/gta3/gta3.dxt.tmb",
+                      "size":  526804,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5a1f207b10c5d70c9425.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "gta3.dxt.toc",
+                      "path":  "texdb/gta3/gta3.dxt.toc",
+                      "size":  50988,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-26ee31b1584a46e66e8b.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "db4b0a02a96b8c1b27d6049e36f4a50e7c83010d4892706fdfd0fcfae30d284f"
+                  },
+                  {
+                      "name":  "gta3.etc.dat",
+                      "path":  "texdb/gta3/gta3.etc.dat",
+                      "size":  234961952,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-009a2e7256a4c29a89d1.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "gta3.etc.tmb",
+                      "path":  "texdb/gta3/gta3.etc.tmb",
+                      "size":  578668,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4ef8e1ce8ebde1b90546.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "gta3.etc.toc",
+                      "path":  "texdb/gta3/gta3.etc.toc",
+                      "size":  50988,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-099814d2571df029a7b3.toc",
+                      "gpu":  "etc",
+                      "sha256":  "c791d4fdd4221e8188463cb71289663b3b804957173911b6fb32ba10f7eafb9b"
+                  },
+                  {
+                      "name":  "gta3.pvr.dat",
+                      "path":  "texdb/gta3/gta3.pvr.dat",
+                      "size":  134184836,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e7350fc329a3a07bea39.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "gta3.pvr.tmb",
+                      "path":  "texdb/gta3/gta3.pvr.tmb",
+                      "size":  798092,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1e9d761fce9f4e297e2a.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "gta3.pvr.toc",
+                      "path":  "texdb/gta3/gta3.pvr.toc",
+                      "size":  50988,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ded799b6d93bf747a646.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "a12b8b29fab1002d4f5863fd78b3316f7d4ce6fe64979f0406e4249b0672599f"
+                  },
+                  {
+                      "name":  "gta3.txt",
+                      "path":  "texdb/gta3/gta3.txt",
+                      "size":  818916,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-66d2e2e66b461a270aae.txt",
+                      "gpu":  "all",
+                      "sha256":  "f34a6d5a09d2a15d2aae6e6187c82e4417b2ac6ee55d860a57a0c16759c44236"
+                  },
+                  {
+                      "name":  "gta3.unc.tmb",
+                      "path":  "texdb/gta3/gta3.unc.tmb",
+                      "size":  1457212,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2e7b41cde9faf81f8cb6.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "menu.dxt.dat",
+                      "path":  "texdb/menu/menu.dxt.dat",
+                      "size":  7799478,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0de6956812c1753652ab.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "menu.dxt.tmb",
+                      "path":  "texdb/menu/menu.dxt.tmb",
+                      "size":  860,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6055a4ffbd6a2ebd0878.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "menu.dxt.toc",
+                      "path":  "texdb/menu/menu.dxt.toc",
+                      "size":  176,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-003c615c9e84c37a389d.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "d408caead030999dc56e7d699de75d28e3d34ca9e6a309fecf12f835d9701518"
+                  },
+                  {
+                      "name":  "menu.etc.dat",
+                      "path":  "texdb/menu/menu.etc.dat",
+                      "size":  10822324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3d233884203e3670e92e.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "menu.etc.tmb",
+                      "path":  "texdb/menu/menu.etc.tmb",
+                      "size":  860,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-367a03d145f538cc1682.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "menu.etc.toc",
+                      "path":  "texdb/menu/menu.etc.toc",
+                      "size":  176,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-79afcca77e1942ae2456.toc",
+                      "gpu":  "etc",
+                      "sha256":  "0e59d5142de0606847ed2a494f184b867f5842a800f5bd4c66011cdcdf777721"
+                  },
+                  {
+                      "name":  "menu.pvr.dat",
+                      "path":  "texdb/menu/menu.pvr.dat",
+                      "size":  10822324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0380b32ab9d026586617.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "menu.pvr.tmb",
+                      "path":  "texdb/menu/menu.pvr.tmb",
+                      "size":  860,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-df7fbf7fc795c7431e50.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "menu.pvr.toc",
+                      "path":  "texdb/menu/menu.pvr.toc",
+                      "size":  176,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f903ca7ec9513c3f139.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "0e59d5142de0606847ed2a494f184b867f5842a800f5bd4c66011cdcdf777721"
+                  },
+                  {
+                      "name":  "menu.txt",
+                      "path":  "texdb/menu/menu.txt",
+                      "size":  3342,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-328d014d1fc1e8c6903b.txt",
+                      "gpu":  "all",
+                      "sha256":  "21d302f3b94f773d20ea273a50c564df6237fbc935d7f280f4330ccf57d1bcc9"
+                  },
+                  {
+                      "name":  "menu.unc.tmb",
+                      "path":  "texdb/menu/menu.unc.tmb",
+                      "size":  860,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3d6005ebe5bcac3df99c.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "mobile.dxt.dat",
+                      "path":  "texdb/mobile/mobile.dxt.dat",
+                      "size":  5272252,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-01ce9b11dd8927053248.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "mobile.dxt.tmb",
+                      "path":  "texdb/mobile/mobile.dxt.tmb",
+                      "size":  3940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a694f1589321c7823fd8.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "mobile.dxt.toc",
+                      "path":  "texdb/mobile/mobile.dxt.toc",
+                      "size":  792,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-30a5a649e2b82008bb30.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "8ebaeb02e950eb4703fe84a3927c593c3b5c011e782e38d2f95d1a59dc38f434"
+                  },
+                  {
+                      "name":  "mobile.etc.dat",
+                      "path":  "texdb/mobile/mobile.etc.dat",
+                      "size":  6726932,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-85e16b6c9b40fb4fc024.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "mobile.etc.tmb",
+                      "path":  "texdb/mobile/mobile.etc.tmb",
+                      "size":  3940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ccf090122333bfde0249.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "mobile.etc.toc",
+                      "path":  "texdb/mobile/mobile.etc.toc",
+                      "size":  792,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1cfaed6f46349f38a4c0.toc",
+                      "gpu":  "etc",
+                      "sha256":  "d4241c98875efc0ccaca2263f9f265b179c5c4b7e72db4890b065766138bd8d5"
+                  },
+                  {
+                      "name":  "mobile.pvr.dat",
+                      "path":  "texdb/mobile/mobile.pvr.dat",
+                      "size":  6726932,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-67eb1eb73ae0e13b8b08.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "mobile.pvr.tmb",
+                      "path":  "texdb/mobile/mobile.pvr.tmb",
+                      "size":  3940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e24e8b306caf115f269f.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "mobile.pvr.toc",
+                      "path":  "texdb/mobile/mobile.pvr.toc",
+                      "size":  792,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b239463a20a8ac3ece25.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "d4241c98875efc0ccaca2263f9f265b179c5c4b7e72db4890b065766138bd8d5"
+                  },
+                  {
+                      "name":  "mobile.txt",
+                      "path":  "texdb/mobile/mobile.txt",
+                      "size":  14502,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-febb7503f8d4e915f7de.txt",
+                      "gpu":  "all",
+                      "sha256":  "b749f29e3c8a3b2e6d386d13b1657f082133563c0b5a87067171568b3713f4fa"
+                  },
+                  {
+                      "name":  "mobile.unc.tmb",
+                      "path":  "texdb/mobile/mobile.unc.tmb",
+                      "size":  3940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-72f7610d0e39bd4c3171.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "player.img",
+                      "path":  "texdb/player.img",
+                      "size":  16412672,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-39cadbc91836aaa205a6.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "player.pvr.dat",
+                      "path":  "texdb/player/player.pvr.dat",
+                      "size":  6569414,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c25b51a6a1698a447528.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "player.pvr.tmb",
+                      "path":  "texdb/player/player.pvr.tmb",
+                      "size":  6940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7bc51b668b5ee17b2002.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "player.pvr.toc",
+                      "path":  "texdb/player/player.pvr.toc",
+                      "size":  1580,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1b538e2b87309755c1f3.toc",
+                      "gpu":  "all",
+                      "sha256":  "0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192"
+                  },
+                  {
+                      "name":  "player.txt",
+                      "path":  "texdb/player/player.txt",
+                      "size":  27810,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-99d99957dbe0ae52e3e9.txt",
+                      "gpu":  "all",
+                      "sha256":  "a2f4d3c7803614505c7c5d964afeda5f5e0dc180e4d62fb87a332e1238dee9af"
+                  },
+                  {
+                      "name":  "playerhi.pvr.dat",
+                      "path":  "texdb/playerhi/playerhi.pvr.dat",
+                      "size":  27658902,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8e14c084eacb533f47e8.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "playerhi.pvr.tmb",
+                      "path":  "texdb/playerhi/playerhi.pvr.tmb",
+                      "size":  6940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fd8015e3a6df4a1435aa.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "playerhi.pvr.toc",
+                      "path":  "texdb/playerhi/playerhi.pvr.toc",
+                      "size":  1580,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-13e04e6a9836c3757de3.toc",
+                      "gpu":  "all",
+                      "sha256":  "c68c8eea457dee5f78b257db0bf867fbde5ef85d6d72216c2c8e8082c7e82979"
+                  },
+                  {
+                      "name":  "playerhi.txt",
+                      "path":  "texdb/playerhi/playerhi.txt",
+                      "size":  28087,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-317af3c27c22573e418c.txt",
+                      "gpu":  "all",
+                      "sha256":  "38efc90958932e4bc475fbea796152ee15a280e3f2aea88ab6bc360166f7e864"
+                  },
+                  {
+                      "name":  "samp.img",
+                      "path":  "texdb/samp.img",
+                      "size":  36902912,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c5639164dc73040f95ea.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "samp.dxt.dat",
+                      "path":  "texdb/samp/samp.dxt.dat",
+                      "size":  33650836,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f593752a69e28b254e1d.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "samp.dxt.tmb",
+                      "path":  "texdb/samp/samp.dxt.tmb",
+                      "size":  23072,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9f246d1b0ebb3e3157f5.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "samp.dxt.toc",
+                      "path":  "texdb/samp/samp.dxt.toc",
+                      "size":  6184,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-01a392c55aba1f7d0cdb.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "794199734d830243375babb8749c96069df0c8c62f02f96bcae98f0e6ad61be1"
+                  },
+                  {
+                      "name":  "samp.etc.dat",
+                      "path":  "texdb/samp/samp.etc.dat",
+                      "size":  33650836,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c54b876b21c6b093a04e.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "samp.etc.tmb",
+                      "path":  "texdb/samp/samp.etc.tmb",
+                      "size":  23072,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ddba8fa4984f481b35c7.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "samp.etc.toc",
+                      "path":  "texdb/samp/samp.etc.toc",
+                      "size":  6184,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b9b18830269b7b7fd722.toc",
+                      "gpu":  "etc",
+                      "sha256":  "794199734d830243375babb8749c96069df0c8c62f02f96bcae98f0e6ad61be1"
+                  },
+                  {
+                      "name":  "samp.pvr.dat",
+                      "path":  "texdb/samp/samp.pvr.dat",
+                      "size":  33650836,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fe96f1e59dd3e0293aef.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "samp.pvr.tmb",
+                      "path":  "texdb/samp/samp.pvr.tmb",
+                      "size":  23072,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6be6ef31ce4b74ae57b0.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "samp.pvr.toc",
+                      "path":  "texdb/samp/samp.pvr.toc",
+                      "size":  6184,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7ac7902fa43cd8d4d5bc.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "794199734d830243375babb8749c96069df0c8c62f02f96bcae98f0e6ad61be1"
+                  },
+                  {
+                      "name":  "samp.txt",
+                      "path":  "texdb/samp/samp.txt",
+                      "size":  91334,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a299e029d7bd2883fd7a.txt",
+                      "gpu":  "all",
+                      "sha256":  "19155907ba2beb01902b920472385618ac84adb4a4e3428bf36777cd68242a21"
+                  },
+                  {
+                      "name":  "samp.unc.dat",
+                      "path":  "texdb/samp/samp.unc.dat",
+                      "size":  33369440,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-db90323cd12da11732b5.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "samp.unc.tmb",
+                      "path":  "texdb/samp/samp.unc.tmb",
+                      "size":  19544,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7905874eb44e68857555.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "samp.unc.toc",
+                      "path":  "texdb/samp/samp.unc.toc",
+                      "size":  6188,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-53a89e8c9ac7b2cdd6f8.toc",
+                      "gpu":  "all",
+                      "sha256":  "7214a0f5126964977f7c66521bbe3e966930951e2dd56621800e8a7847aaaa5d"
+                  },
+                  {
+                      "name":  "SAMPCOL.img",
+                      "path":  "texdb/SAMPCOL.img",
+                      "size":  4253696,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-290845a6f97cdf16e9c8.img",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "txd.360.dat",
+                      "path":  "texdb/txd/txd.360.dat",
+                      "size":  7625578,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f71068f119f057aa2a4.dat",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "txd.360.tmb",
+                      "path":  "texdb/txd/txd.360.tmb",
+                      "size":  31028,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5c62ed38f44fb1706695.tmb",
+                      "gpu":  "all"
+                  },
+                  {
+                      "name":  "txd.360.toc",
+                      "path":  "texdb/txd/txd.360.toc",
+                      "size":  2376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-04d70dbaef5387abed4e.toc",
+                      "gpu":  "all",
+                      "sha256":  "04d7d2ba94ff0d8546c2d41ebc3a55ffa3b54bea07efd23ecd5948810623a5cc"
+                  },
+                  {
+                      "name":  "txd.dxt.dat",
+                      "path":  "texdb/txd/txd.dxt.dat",
+                      "size":  7625578,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7cddbda75a675935f6a9.dat",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "txd.dxt.tmb",
+                      "path":  "texdb/txd/txd.dxt.tmb",
+                      "size":  31028,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-40db28fa9cbf723eb796.tmb",
+                      "gpu":  "dxt"
+                  },
+                  {
+                      "name":  "txd.dxt.toc",
+                      "path":  "texdb/txd/txd.dxt.toc",
+                      "size":  2376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-828aa01e967a4a2ebdc4.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "06249934b9ad2b96dc759c5cffc212d47d0eeaf28d64197c0002f76ffaceb2b4"
+                  },
+                  {
+                      "name":  "txd.etc.dat",
+                      "path":  "texdb/txd/txd.etc.dat",
+                      "size":  9422056,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d0a8ae956adea170aecc.dat",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "txd.etc.tmb",
+                      "path":  "texdb/txd/txd.etc.tmb",
+                      "size":  49460,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-83cb81eba2da8a1717bf.tmb",
+                      "gpu":  "etc"
+                  },
+                  {
+                      "name":  "txd.etc.toc",
+                      "path":  "texdb/txd/txd.etc.toc",
+                      "size":  2376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c6dc357850b249d13d7b.toc",
+                      "gpu":  "etc",
+                      "sha256":  "96273b1bfc990b78023e553659b01807c36966fd437d21ebfe1f54dc86355c1a"
+                  },
+                  {
+                      "name":  "txd.pvr.dat",
+                      "path":  "texdb/txd/txd.pvr.dat",
+                      "size":  7716880,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2b6e0ca85f4d95c060f7.dat",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "txd.pvr.tmb",
+                      "path":  "texdb/txd/txd.pvr.tmb",
+                      "size":  25204,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-86aaec13c80a25497bce.tmb",
+                      "gpu":  "pvr"
+                  },
+                  {
+                      "name":  "txd.pvr.toc",
+                      "path":  "texdb/txd/txd.pvr.toc",
+                      "size":  2376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-744aa15591c512cf398c.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "f1918fa7829172a98ccbf5ac79e7299363a0077b3745748c6714903c57c4e1c2"
+                  },
+                  {
+                      "name":  "txd.txt",
+                      "path":  "texdb/txd/txd.txt",
+                      "size":  43193,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5db2ca54843c5198470b.txt",
+                      "gpu":  "all",
+                      "sha256":  "4feef74e4628ac9310ebd378be086cc1a998467e90eabd6e9d32d6bec1424810"
+                  },
+                  {
+                      "name":  "txd.unc.tmb",
+                      "path":  "texdb/txd/txd.unc.tmb",
+                      "size":  59636,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fa07c267fabc0da26e4d.tmb",
+                      "gpu":  "all"
+                  }
+              ]
+}

@@ -1,0 +1,20 @@
+{
+    "app_status":  true,
+    "app_testers":  [
+
+                    ],
+    "game_version":  "1.0.52",
+    "game_version_name":  "1.0.52",
+    "game_version_code":  152,
+    "apk_url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/alpine-rp-1.0.52.apk",
+    "apk_size":  73349037,
+    "apk_sha256":  "c95fefa6becc5edd2f3b4e3b2eaca38408c819206126018af247c38744ce3780",
+    "client_config":  {
+                          "version_launcher":  "1.0.52",
+                          "version_code":  152,
+                          "url_launcher":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/alpine-rp-1.0.52.apk"
+                      },
+    "full_list_url":  "https://Lampiao1711.github.io/alpine-mobile-downloads/full_list.json",
+    "lite_list_url":  "https://Lampiao1711.github.io/alpine-mobile-downloads/lite_list.json",
+    "samp_list_url":  "https://Lampiao1711.github.io/alpine-mobile-downloads/samp_list.json"
+}
