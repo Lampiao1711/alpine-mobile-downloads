@@ -497,6 +497,790 @@
                       "sha256":  "db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926"
                   },
                   {
+                      "name":  "f10.dff",
+                      "path":  "char/hair/f10.dff",
+                      "size":  406044,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-3a6f69b07e4bd4d56ba9.dff",
+                      "gpu":  "all",
+                      "sha256":  "07f05a872b77c5b0fb5d1c27d643aecf40f91e576715d1033e0d3df519afa2aa"
+                  },
+                  {
+                      "name":  "f11.dff",
+                      "path":  "char/hair/f11.dff",
+                      "size":  431176,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-deca144bba35beb4de67.dff",
+                      "gpu":  "all",
+                      "sha256":  "f4cf0b91bbe5d2d03b3d48bc8e264e8194b1aea813ff26f068230ceeb1140cfb"
+                  },
+                  {
+                      "name":  "f12.dff",
+                      "path":  "char/hair/f12.dff",
+                      "size":  87156,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7b76455a4a1d59d7c34a.dff",
+                      "gpu":  "all",
+                      "sha256":  "769a94252077f4bdcbc61c88c3708704a933b2a859cf244dd04cf269bfd4d3d5"
+                  },
+                  {
+                      "name":  "f13.dff",
+                      "path":  "char/hair/f13.dff",
+                      "size":  386972,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e90f30a3d0389077875e.dff",
+                      "gpu":  "all",
+                      "sha256":  "2fe9582436d3b3b050a3199e9a2634eafd52eb086140de7cdee0d462307e04b9"
+                  },
+                  {
+                      "name":  "f14.dff",
+                      "path":  "char/hair/f14.dff",
+                      "size":  386876,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7192800f92a15fb4ee77.dff",
+                      "gpu":  "all",
+                      "sha256":  "73a28bdbe7ec4ed522f8b47e9b61ec74cc574918a7ffa6cb47c45839ad3ff017"
+                  },
+                  {
+                      "name":  "f15.dff",
+                      "path":  "char/hair/f15.dff",
+                      "size":  402972,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-25a5e7e1a1fe12cfef74.dff",
+                      "gpu":  "all",
+                      "sha256":  "5c225fd65cde7ffbb0f1429d231a3bcfa99f4955aae930c45427a57413cbdb37"
+                  },
+                  {
+                      "name":  "f16.dff",
+                      "path":  "char/hair/f16.dff",
+                      "size":  405322,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d4ca64f27bf70f80fe38.dff",
+                      "gpu":  "all",
+                      "sha256":  "348f7214870fcc24305d3eee91d9fdf2a8e75b9377f26b49f79d5e9198c23900"
+                  },
+                  {
+                      "name":  "f17.dff",
+                      "path":  "char/hair/f17.dff",
+                      "size":  398332,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-68aba22dc912c5ce292e.dff",
+                      "gpu":  "all",
+                      "sha256":  "e92ae8218055963ee9f3fef3a3ee8d4a89653da28e64f637d423f51eec464ca7"
+                  },
+                  {
+                      "name":  "f18.dff",
+                      "path":  "char/hair/f18.dff",
+                      "size":  370942,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a13b557a1a2531f84ec8.dff",
+                      "gpu":  "all",
+                      "sha256":  "94eaaa712611d556b1b63a31deeec0c8f0955784a73fa8da286f20bad6f0589e"
+                  },
+                  {
+                      "name":  "f19.dff",
+                      "path":  "char/hair/f19.dff",
+                      "size":  406940,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-844b8bd3d6a97e44bfdb.dff",
+                      "gpu":  "all",
+                      "sha256":  "2a2bbb8ef260c68cd065b66c76ff04355d612437b34cbae0aee55ffcbd812bbe"
+                  },
+                  {
+                      "name":  "f2.dff",
+                      "path":  "char/hair/f2.dff",
+                      "size":  383296,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6e87b3590abcabf892e8.dff",
+                      "gpu":  "all",
+                      "sha256":  "81a031d6310dbfeffbb21395300196f705edad86b5bd67f989b2d8b8cdc27e95"
+                  },
+                  {
+                      "name":  "f20.dff",
+                      "path":  "char/hair/f20.dff",
+                      "size":  411528,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-49caa7ecaaf6d751560d.dff",
+                      "gpu":  "all",
+                      "sha256":  "63813b82bf8c40aa9afaab9d32fb90eef60da263e19524607b9f401f16553afa"
+                  },
+                  {
+                      "name":  "f21.dff",
+                      "path":  "char/hair/f21.dff",
+                      "size":  392028,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e7828a17300872cd2301.dff",
+                      "gpu":  "all",
+                      "sha256":  "c9d535b8aaa3a706340959c8ffd5866063279ffb1ad034141dd0cd93fa8e853d"
+                  },
+                  {
+                      "name":  "f22.dff",
+                      "path":  "char/hair/f22.dff",
+                      "size":  402984,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-56ee5fb75c124e7fea2b.dff",
+                      "gpu":  "all",
+                      "sha256":  "e56fd00ea0157814ad7427418107d51e7c5df9a56ccd1b5342c1b52c69d27a65"
+                  },
+                  {
+                      "name":  "f23.dff",
+                      "path":  "char/hair/f23.dff",
+                      "size":  378652,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0f9ca341070d945f56ba.dff",
+                      "gpu":  "all",
+                      "sha256":  "e6b9e2720762dcefd5afcae69fc4a46983acc7cdb87005624dcb1f6ab798e070"
+                  },
+                  {
+                      "name":  "f24.dff",
+                      "path":  "char/hair/f24.dff",
+                      "size":  395644,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ef04492cb4af71ec08cb.dff",
+                      "gpu":  "all",
+                      "sha256":  "a3294a17e05e66f1bb3696f5eca8b10fefefd593dc78e602047a79479da7fc70"
+                  },
+                  {
+                      "name":  "f25.dff",
+                      "path":  "char/hair/f25.dff",
+                      "size":  377820,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e68ed661203dc753afcf.dff",
+                      "gpu":  "all",
+                      "sha256":  "ad7b02a2654d3504d34b4b07d6a7c4defcd744b8006b417456499067397bbc67"
+                  },
+                  {
+                      "name":  "f26.dff",
+                      "path":  "char/hair/f26.dff",
+                      "size":  377852,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5b8787205ef84c5b6489.dff",
+                      "gpu":  "all",
+                      "sha256":  "150af3fb8d90e5572bcbc63e3a7498eea552eea465572e8c5a87cde5ee654056"
+                  },
+                  {
+                      "name":  "f27.dff",
+                      "path":  "char/hair/f27.dff",
+                      "size":  414620,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-20e9acdd42a1fa7a5e7e.dff",
+                      "gpu":  "all",
+                      "sha256":  "24a256b42c03c77c36b7839d88f8ef215419bb0ba670aa17635e8493e8abb229"
+                  },
+                  {
+                      "name":  "f28.dff",
+                      "path":  "char/hair/f28.dff",
+                      "size":  390812,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2aa6c5ca351b7f719103.dff",
+                      "gpu":  "all",
+                      "sha256":  "7c00383137f7dc4825b2a92e5344ef584a9ffc927cb6e823e9e0b9fbfe0a623c"
+                  },
+                  {
+                      "name":  "f29.dff",
+                      "path":  "char/hair/f29.dff",
+                      "size":  435420,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-dfe9feb513ac9b8247c4.dff",
+                      "gpu":  "all",
+                      "sha256":  "ff2496b4ac81973acdee2e6054524512c9281996693fd38d7a10cfa08eb18c5f"
+                  },
+                  {
+                      "name":  "f3.dff",
+                      "path":  "char/hair/f3.dff",
+                      "size":  421696,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c40bcf7f263c2909009b.dff",
+                      "gpu":  "all",
+                      "sha256":  "9029800368891e5f0851c48b6564e4215bafdb8b2567377b2cb768e8d4073d36"
+                  },
+                  {
+                      "name":  "f30.dff",
+                      "path":  "char/hair/f30.dff",
+                      "size":  422172,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6b5666f220fc39d27fbb.dff",
+                      "gpu":  "all",
+                      "sha256":  "bb3a89b649d26da07f9e8ddb74f59aff55430208daba1310c855f9934cc7f98b"
+                  },
+                  {
+                      "name":  "f31.dff",
+                      "path":  "char/hair/f31.dff",
+                      "size":  384124,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a825171c9ee0eb1ba050.dff",
+                      "gpu":  "all",
+                      "sha256":  "566099f14127156d42e94b5854b2c5fa1e055809b0e16bf8f1305cd73457a00e"
+                  },
+                  {
+                      "name":  "f32.dff",
+                      "path":  "char/hair/f32.dff",
+                      "size":  388744,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2396d20850a79d6ff4c5.dff",
+                      "gpu":  "all",
+                      "sha256":  "70f1c7e72cd339ded36e8d1c07f10ea970e61b3cb9439f87859bda36e7bd999e"
+                  },
+                  {
+                      "name":  "f34.dff",
+                      "path":  "char/hair/f34.dff",
+                      "size":  410076,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-87a7aea4170228fd5ee7.dff",
+                      "gpu":  "all",
+                      "sha256":  "66fc04060b3f715c71b6ebcb5d89ee50fed0f8db26a73679f07e3005f131a638"
+                  },
+                  {
+                      "name":  "f35.dff",
+                      "path":  "char/hair/f35.dff",
+                      "size":  402012,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c09786cac845e5de56c2.dff",
+                      "gpu":  "all",
+                      "sha256":  "81eba551e861ba743bfdc41a611b2250adad9f24c3e4da45ce16f89085760aa6"
+                  },
+                  {
+                      "name":  "f36.dff",
+                      "path":  "char/hair/f36.dff",
+                      "size":  427612,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1600ab5ff62538e70447.dff",
+                      "gpu":  "all",
+                      "sha256":  "c3c67947d9131fea5c88f633c1df64cc1abb403616492abd8848dea710f150b0"
+                  },
+                  {
+                      "name":  "f37.dff",
+                      "path":  "char/hair/f37.dff",
+                      "size":  452444,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c221426bdbe631087bb7.dff",
+                      "gpu":  "all",
+                      "sha256":  "7b56d2753586ca782c60afb6d3709a7a4979abe2523ec64209f49da29c7cae3f"
+                  },
+                  {
+                      "name":  "f38.dff",
+                      "path":  "char/hair/f38.dff",
+                      "size":  457096,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fe61d9bb424ef42f92aa.dff",
+                      "gpu":  "all",
+                      "sha256":  "1cde1c3f3a9a0493f64b4e7a33c24c02adddfadccbf6d5cd61cba5c9479d8d6a"
+                  },
+                  {
+                      "name":  "f39.dff",
+                      "path":  "char/hair/f39.dff",
+                      "size":  368252,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-78d8524e071c44c51aea.dff",
+                      "gpu":  "all",
+                      "sha256":  "41e7c7f766bcd79c5079f68f028881407b2d7b0235b73d08b3d9f60fca2cdf3c"
+                  },
+                  {
+                      "name":  "f4.dff",
+                      "path":  "char/hair/f4.dff",
+                      "size":  405244,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e4d29807dd7187fe6edb.dff",
+                      "gpu":  "all",
+                      "sha256":  "357cd76bb5982ab94e9bda5c713959ee7df47aa560f129510fa551e6367b4f40"
+                  },
+                  {
+                      "name":  "f40.dff",
+                      "path":  "char/hair/f40.dff",
+                      "size":  375004,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2b3a42452d1d35c68e97.dff",
+                      "gpu":  "all",
+                      "sha256":  "fceb101b2b8a408eb23db071f313ec3938c1cf5cae47023de12e41710bfe5e9f"
+                  },
+                  {
+                      "name":  "f41.dff",
+                      "path":  "char/hair/f41.dff",
+                      "size":  416072,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-fce269df12efb6bec8d1.dff",
+                      "gpu":  "all",
+                      "sha256":  "d7614dd7fc4d8ef04ada286b05cb8a7f0db35f0a21f456afd3e5606508e4c921"
+                  },
+                  {
+                      "name":  "f42.dff",
+                      "path":  "char/hair/f42.dff",
+                      "size":  406300,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5b2ce312681d888a5f1b.dff",
+                      "gpu":  "all",
+                      "sha256":  "5a58ff49bb76322a630ade87558c0a9bc6959a35d3f656b7515c0432a712a0d0"
+                  },
+                  {
+                      "name":  "f43.dff",
+                      "path":  "char/hair/f43.dff",
+                      "size":  419912,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d439c719c463598953b0.dff",
+                      "gpu":  "all",
+                      "sha256":  "fd73a6f58338ab35f7d41855f07322701a6ca34703150925531606d298472219"
+                  },
+                  {
+                      "name":  "f44.dff",
+                      "path":  "char/hair/f44.dff",
+                      "size":  395932,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-dc84e186fd3a13f4965c.dff",
+                      "gpu":  "all",
+                      "sha256":  "b5ccafd413556249ab52d49dac4af85adb73acf0b3ff1352744d9a26308d1183"
+                  },
+                  {
+                      "name":  "f45.dff",
+                      "path":  "char/hair/f45.dff",
+                      "size":  341628,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4aa7158569a51d5e7d8e.dff",
+                      "gpu":  "all",
+                      "sha256":  "7c682e449555798dad3be4c94acaae3c72f8f46fb867ff2dd6c0896f2cc33a90"
+                  },
+                  {
+                      "name":  "f46.dff",
+                      "path":  "char/hair/f46.dff",
+                      "size":  411036,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9ee41e10c3cd3b7cd3fe.dff",
+                      "gpu":  "all",
+                      "sha256":  "e34187de775cc9d10734b8d8208f3af65e01e828faf3e6b8faa1cc2a8b440ea2"
+                  },
+                  {
+                      "name":  "f47.dff",
+                      "path":  "char/hair/f47.dff",
+                      "size":  396508,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a94d4d2e825c2888c908.dff",
+                      "gpu":  "all",
+                      "sha256":  "e00c628fb54f29ed0f80372063e5925b2d1b91a04e070f371dc68ff37ccc4f52"
+                  },
+                  {
+                      "name":  "f48.dff",
+                      "path":  "char/hair/f48.dff",
+                      "size":  402910,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-872f0d15cc0b9a75eb36.dff",
+                      "gpu":  "all",
+                      "sha256":  "beed8c53bc8b1bb3e89b6d7d76f313da34a70a323697476b55a18398a7ac235d"
+                  },
+                  {
+                      "name":  "f49.dff",
+                      "path":  "char/hair/f49.dff",
+                      "size":  391976,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5482b18da3692a60fe28.dff",
+                      "gpu":  "all",
+                      "sha256":  "995755367e2d90b6a4ee582cc89def12198a4e08c315540bf8ca877e1f1556e1"
+                  },
+                  {
+                      "name":  "f5.dff",
+                      "path":  "char/hair/f5.dff",
+                      "size":  450912,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-114906cc8a4affe63f1d.dff",
+                      "gpu":  "all",
+                      "sha256":  "ae325d7820372a226e3483e74b7d01136d006100e663e41389e244e86461e24d"
+                  },
+                  {
+                      "name":  "f50.dff",
+                      "path":  "char/hair/f50.dff",
+                      "size":  394044,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-779a430b1185b2a56763.dff",
+                      "gpu":  "all",
+                      "sha256":  "9717a28b0fb25c579f8f68a867b5a8445250bfeed901506bb80dc1085aee949a"
+                  },
+                  {
+                      "name":  "f51.dff",
+                      "path":  "char/hair/f51.dff",
+                      "size":  379260,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ca802b8336cf6267e97b.dff",
+                      "gpu":  "all",
+                      "sha256":  "4864b43763d05b247ce1ecb780a759c5240ce94d94b718f6303e3ba89e5d7dfa"
+                  },
+                  {
+                      "name":  "f52.dff",
+                      "path":  "char/hair/f52.dff",
+                      "size":  435486,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-aa6bc371875a44dbe113.dff",
+                      "gpu":  "all",
+                      "sha256":  "80bad56cb39af46e7c8b69efdffb00616cddf40a151e03925c0b9cad86c207b4"
+                  },
+                  {
+                      "name":  "f53.dff",
+                      "path":  "char/hair/f53.dff",
+                      "size":  402428,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-92423300a435d9a5a028.dff",
+                      "gpu":  "all",
+                      "sha256":  "b31f594bfe6c195bd1a02f54146e8ef515011743f88b46966c1b9077d79b96cb"
+                  },
+                  {
+                      "name":  "f54.dff",
+                      "path":  "char/hair/f54.dff",
+                      "size":  369436,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-f6637750d5ea0931da94.dff",
+                      "gpu":  "all",
+                      "sha256":  "9b3b1d12f7ef29908bb082a5ad7de7ebf4cc6ff336ddb3715c0283139991184f"
+                  },
+                  {
+                      "name":  "f55.dff",
+                      "path":  "char/hair/f55.dff",
+                      "size":  433884,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5cbaedfdad05de90ca77.dff",
+                      "gpu":  "all",
+                      "sha256":  "f10185f2b3068483d8ce850c18d1b460b655b5084ffa8970146d1cfc9dbf00c6"
+                  },
+                  {
+                      "name":  "f56.dff",
+                      "path":  "char/hair/f56.dff",
+                      "size":  397214,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-320725bcb6938ab308df.dff",
+                      "gpu":  "all",
+                      "sha256":  "8c1a39d7236e2d026f80770818f3c7323e6b4449904a52031d9c36c3a65ce8c8"
+                  },
+                  {
+                      "name":  "f57.dff",
+                      "path":  "char/hair/f57.dff",
+                      "size":  402076,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-99daf09b5a2357123b73.dff",
+                      "gpu":  "all",
+                      "sha256":  "27109b91059c5e8b5acbbce242bfe844d6cf701dc59cd53929165fee05287681"
+                  },
+                  {
+                      "name":  "f58.dff",
+                      "path":  "char/hair/f58.dff",
+                      "size":  408840,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-43dda81a4ef59e4bc07a.dff",
+                      "gpu":  "all",
+                      "sha256":  "dc7c215f0309e24b70b4ca4d50493db0b6a42e9fbd268b222c855d4f04df0fb5"
+                  },
+                  {
+                      "name":  "f59.dff",
+                      "path":  "char/hair/f59.dff",
+                      "size":  344830,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5b316248321d5398dfa6.dff",
+                      "gpu":  "all",
+                      "sha256":  "cebad28a23a93f9ecae9ba9e4bfaf6692e3fa268ebb46f5d9a6ba93fadb14569"
+                  },
+                  {
+                      "name":  "f6.dff",
+                      "path":  "char/hair/f6.dff",
+                      "size":  361160,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-71904995e615a2a8aad5.dff",
+                      "gpu":  "all",
+                      "sha256":  "6bafd34609a934b7aedc6866079de40ff6f5ea7f34f2a4ad1184b026a2b0237c"
+                  },
+                  {
+                      "name":  "f60.dff",
+                      "path":  "char/hair/f60.dff",
+                      "size":  424458,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-eafb6e2f51745f4050ea.dff",
+                      "gpu":  "all",
+                      "sha256":  "e573474adb1c5126b9b1010511d01844b27a0ae42f7a5cbcaa9480a49c9a3c26"
+                  },
+                  {
+                      "name":  "f7.dff",
+                      "path":  "char/hair/f7.dff",
+                      "size":  393960,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-9234b3fda1b19edf9205.dff",
+                      "gpu":  "all",
+                      "sha256":  "3b2a6d713b0688ef48a1045be67973f2b459110535e4b4bb415137d8ff468806"
+                  },
+                  {
+                      "name":  "f8.dff",
+                      "path":  "char/hair/f8.dff",
+                      "size":  452776,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-63fdee42950e27020f54.dff",
+                      "gpu":  "all",
+                      "sha256":  "608eab44ad436ce5fee553de9de5ba163c26d0429b083036628473600a8bff8d"
+                  },
+                  {
+                      "name":  "f9.dff",
+                      "path":  "char/hair/f9.dff",
+                      "size":  395132,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-291e325f276bc6aabb4b.dff",
+                      "gpu":  "all",
+                      "sha256":  "7302f11f69b600f1f2c33a41f2179542585a3150941fdf14706903f96aa79630"
+                  },
+                  {
+                      "name":  "m10.dff",
+                      "path":  "char/hair/m10.dff",
+                      "size":  408872,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d569035bffcdfc8d573b.dff",
+                      "gpu":  "all",
+                      "sha256":  "0e6e9c272d75f6c52e7171da59752c48c27d14706000e60595e3a02d67d9c92c"
+                  },
+                  {
+                      "name":  "m11.dff",
+                      "path":  "char/hair/m11.dff",
+                      "size":  376444,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-778650eb17ba6f1b5ff8.dff",
+                      "gpu":  "all",
+                      "sha256":  "fad18524419d06a2995cfa3e0d2fd22a72bc95169d93c7addad032257f75c08e"
+                  },
+                  {
+                      "name":  "m12.dff",
+                      "path":  "char/hair/m12.dff",
+                      "size":  361340,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-17ce1e66534d783f1d2f.dff",
+                      "gpu":  "all",
+                      "sha256":  "ec9df2df37b294e5e27133d62949717d703adf3b2ffab67c04b33ca6508a67d5"
+                  },
+                  {
+                      "name":  "m13.dff",
+                      "path":  "char/hair/m13.dff",
+                      "size":  366376,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7e1dd7665fb2f93a63b8.dff",
+                      "gpu":  "all",
+                      "sha256":  "c09f8f74be233ec80f16ed1192f3c330c466d2d32999ad78d2d044c161fc3bb4"
+                  },
+                  {
+                      "name":  "m14.dff",
+                      "path":  "char/hair/m14.dff",
+                      "size":  384106,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-bcf08426c849499a0e55.dff",
+                      "gpu":  "all",
+                      "sha256":  "a15057b8fcfff6e5a6f09b609920210ae444732639b8b673f7f897b423047bb6"
+                  },
+                  {
+                      "name":  "m15.dff",
+                      "path":  "char/hair/m15.dff",
+                      "size":  407184,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ad64ac6e40a2abfdbac4.dff",
+                      "gpu":  "all",
+                      "sha256":  "09263b8c56c4a91f9f3349f6e867b88c3a3fd7add1dd181f522c808e68718f41"
+                  },
+                  {
+                      "name":  "m16.dff",
+                      "path":  "char/hair/m16.dff",
+                      "size":  379484,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-cafcee590aefbe0f2482.dff",
+                      "gpu":  "all",
+                      "sha256":  "19772909787dfeb05182089853d0150c54fdf03b7a0837083c1b7b64902c139a"
+                  },
+                  {
+                      "name":  "m17.dff",
+                      "path":  "char/hair/m17.dff",
+                      "size":  391740,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-853b2944045d55a42c1a.dff",
+                      "gpu":  "all",
+                      "sha256":  "ba0053f82f075cdf10935974426b8421f2925570522748326a006cbbc62556b6"
+                  },
+                  {
+                      "name":  "m18.dff",
+                      "path":  "char/hair/m18.dff",
+                      "size":  342356,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-625432a858592d05071f.dff",
+                      "gpu":  "all",
+                      "sha256":  "664f2c68796267a131c3ff8dc26e70565690306f96529eb67218946e49d38479"
+                  },
+                  {
+                      "name":  "m19.dff",
+                      "path":  "char/hair/m19.dff",
+                      "size":  435036,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e51d63b9eb4fd694da5d.dff",
+                      "gpu":  "all",
+                      "sha256":  "00adfa5fad4c0309408a019b4135b9e12380b1beeed37d81a975a83bbc8f5175"
+                  },
+                  {
+                      "name":  "m2.dff",
+                      "path":  "char/hair/m2.dff",
+                      "size":  450912,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5d0205753a2b3cc383db.dff",
+                      "gpu":  "all",
+                      "sha256":  "fb4f04b8fa2099f36bd1db8e089855a13e18590112517de8ff34f083622e7612"
+                  },
+                  {
+                      "name":  "m20.dff",
+                      "path":  "char/hair/m20.dff",
+                      "size":  399324,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b03520c8e2f540b31d68.dff",
+                      "gpu":  "all",
+                      "sha256":  "130a27903b9641cca9fdaf43a82d98b9c29d9255d1bab90ef7021b715fdc6536"
+                  },
+                  {
+                      "name":  "m21.dff",
+                      "path":  "char/hair/m21.dff",
+                      "size":  407516,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c9914a36bfb582963119.dff",
+                      "gpu":  "all",
+                      "sha256":  "2acc8dec782c687d1fce54e98bc6b253f2a4ce2262a2b9f7ecc8945ef36a1ad7"
+                  },
+                  {
+                      "name":  "m22.dff",
+                      "path":  "char/hair/m22.dff",
+                      "size":  509628,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7525f05eb6990c542edc.dff",
+                      "gpu":  "all",
+                      "sha256":  "ac98940e534dce3397ee7e376e51e9fe9c4d4eae7f7c7f63e49dc87fb98038d9"
+                  },
+                  {
+                      "name":  "m23.dff",
+                      "path":  "char/hair/m23.dff",
+                      "size":  420604,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e831e687f08e7afd5bc2.dff",
+                      "gpu":  "all",
+                      "sha256":  "c446f71598f8f189eaf24b86fa23614c0df41a0f97e32262673df0ccbb961ea4"
+                  },
+                  {
+                      "name":  "m24.dff",
+                      "path":  "char/hair/m24.dff",
+                      "size":  386024,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-725f7adb0aec2dc39f1f.dff",
+                      "gpu":  "all",
+                      "sha256":  "6784daad516738bf4e79b3503759418ada4380c7d4cb6ac286bbef32a18c5180"
+                  },
+                  {
+                      "name":  "m25.dff",
+                      "path":  "char/hair/m25.dff",
+                      "size":  362556,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e372b14f4ca34d9494f3.dff",
+                      "gpu":  "all",
+                      "sha256":  "1649a0913ce60d68abc7fae87f301657123d7e12283092a13c4496d7ce04390e"
+                  },
+                  {
+                      "name":  "m26.dff",
+                      "path":  "char/hair/m26.dff",
+                      "size":  375732,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4cc2152b4ac552843b54.dff",
+                      "gpu":  "all",
+                      "sha256":  "c6717902463cefdfc0e05a190abe85944c1de0dffa0ff2491ef3bb125f913932"
+                  },
+                  {
+                      "name":  "m27.dff",
+                      "path":  "char/hair/m27.dff",
+                      "size":  397916,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-996dcf95e9ec87ebbb0e.dff",
+                      "gpu":  "all",
+                      "sha256":  "f55f3d68cdc763d0a164a1debdf2bf8eeea2b9f638c2d385a4b9c6cdea7cddc0"
+                  },
+                  {
+                      "name":  "m28.dff",
+                      "path":  "char/hair/m28.dff",
+                      "size":  421596,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-a2059c428e8a89b68366.dff",
+                      "gpu":  "all",
+                      "sha256":  "54232b9fbe71856dd2bcbe5ce8fb6378887b2fcc6fbef650251c275468e20699"
+                  },
+                  {
+                      "name":  "m29.dff",
+                      "path":  "char/hair/m29.dff",
+                      "size":  374666,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-d3a41174828314601ac4.dff",
+                      "gpu":  "all",
+                      "sha256":  "3ef6884eab0c8e039984429df5ffeb1dec9758d2c4039287ed2c64bb67318aaf"
+                  },
+                  {
+                      "name":  "m3.dff",
+                      "path":  "char/hair/m3.dff",
+                      "size":  363368,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-4a8786ffef2d6b34ae7d.dff",
+                      "gpu":  "all",
+                      "sha256":  "71995f28c3b1867c4cc7ebac03b5bdf0cb10e958129d13cd3d2cd08d86d50abe"
+                  },
+                  {
+                      "name":  "m30.dff",
+                      "path":  "char/hair/m30.dff",
+                      "size":  414364,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-357bfb201b90ccdb4aa6.dff",
+                      "gpu":  "all",
+                      "sha256":  "7728963d70797eb389621c763ed1dd46717075971fd5d602f0bd28405fd778c0"
+                  },
+                  {
+                      "name":  "m31.dff",
+                      "path":  "char/hair/m31.dff",
+                      "size":  336460,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8c96fc362e36c77e1994.dff",
+                      "gpu":  "all",
+                      "sha256":  "57b8eb05dee3e71b651b3e4fbe0e50cfec8dfcd6e260bbe6dec1300533346f76"
+                  },
+                  {
+                      "name":  "m32.dff",
+                      "path":  "char/hair/m32.dff",
+                      "size":  928576,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-61419075197c3130b638.dff",
+                      "gpu":  "all",
+                      "sha256":  "3784c40e918a64c56a50f5c89fd9b8c4cfb79ab346adf0bc3c439ea5456849cb"
+                  },
+                  {
+                      "name":  "m33.dff",
+                      "path":  "char/hair/m33.dff",
+                      "size":  320988,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-5cdb60a4d7caeb662eba.dff",
+                      "gpu":  "all",
+                      "sha256":  "c50d1cb7910145811dc22ef09d75994d9a20a8a97bfc1897d6fd8dbe3ede2751"
+                  },
+                  {
+                      "name":  "m34.dff",
+                      "path":  "char/hair/m34.dff",
+                      "size":  383902,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-1efb6ad6ccccf606134a.dff",
+                      "gpu":  "all",
+                      "sha256":  "92fe2458b299add080448c002601e8d760e54f423395d831ed1d941736426461"
+                  },
+                  {
+                      "name":  "m36.dff",
+                      "path":  "char/hair/m36.dff",
+                      "size":  362012,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-afa61fca8b6648fe15ab.dff",
+                      "gpu":  "all",
+                      "sha256":  "c5bce09338f9c75213e479e6b3d573f883cd4731aaa63d38793adfb8b02912ab"
+                  },
+                  {
+                      "name":  "m37.dff",
+                      "path":  "char/hair/m37.dff",
+                      "size":  341288,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-e0cb862c32fc4414a38e.dff",
+                      "gpu":  "all",
+                      "sha256":  "fff9f24d7b1625bfea4f6154682b222fe00e847e2fa5f71794459ceb4cc6d022"
+                  },
+                  {
+                      "name":  "m38.dff",
+                      "path":  "char/hair/m38.dff",
+                      "size":  407228,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-194e3848d34ee4482a38.dff",
+                      "gpu":  "all",
+                      "sha256":  "a1e054ee487c92e07e0ac7a0a3b9d020330857a4a590d4d2d9939586c9655822"
+                  },
+                  {
+                      "name":  "m39.dff",
+                      "path":  "char/hair/m39.dff",
+                      "size":  382236,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-838cd120d2f0d232a0b4.dff",
+                      "gpu":  "all",
+                      "sha256":  "8bcc6c9867d95daad7d3cd417a5936f85b7f43999ab8d8170bb25d64af664137"
+                  },
+                  {
+                      "name":  "m4.dff",
+                      "path":  "char/hair/m4.dff",
+                      "size":  411420,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-52104c5e82ab1ea60216.dff",
+                      "gpu":  "all",
+                      "sha256":  "46284206e68cd8944544d911ef1872e3c51bf3d589c79768212ca09bc56f8907"
+                  },
+                  {
+                      "name":  "m40.dff",
+                      "path":  "char/hair/m40.dff",
+                      "size":  400700,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-ef11cd59975f2ceeb002.dff",
+                      "gpu":  "all",
+                      "sha256":  "71b17cdec9b9479e0268fbc8f2fb2f980c4ea281cdbb1c8a05590fb951aebdb6"
+                  },
+                  {
+                      "name":  "m43.dff",
+                      "path":  "char/hair/m43.dff",
+                      "size":  368652,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-0256650f6607b91859c6.dff",
+                      "gpu":  "all",
+                      "sha256":  "472fb007b9147e5848ddb65df162d1de3b3d1e940929bca815d54dfd1939da8c"
+                  },
+                  {
+                      "name":  "m44.dff",
+                      "path":  "char/hair/m44.dff",
+                      "size":  427132,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-7419e61f92296fb43b8b.dff",
+                      "gpu":  "all",
+                      "sha256":  "f2e35c9a0423799276f3b180cfd5039fe222033ba20e086545ed7f362187ac34"
+                  },
+                  {
+                      "name":  "m5.dff",
+                      "path":  "char/hair/m5.dff",
+                      "size":  403400,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b24fa0fad9f8565eb2e4.dff",
+                      "gpu":  "all",
+                      "sha256":  "722985be0165da48ecc0fb4a9b5c5f30498e6f5d9b73259d4b59a7ddde121127"
+                  },
+                  {
+                      "name":  "m6.dff",
+                      "path":  "char/hair/m6.dff",
+                      "size":  207740,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-798066040fddc3609206.dff",
+                      "gpu":  "all",
+                      "sha256":  "f486506491452f071b26b22e945daae61d195d476f14969e6f789298aeabd0fc"
+                  },
+                  {
+                      "name":  "m7.dff",
+                      "path":  "char/hair/m7.dff",
+                      "size":  414716,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6598cd49089aba487afb.dff",
+                      "gpu":  "all",
+                      "sha256":  "1f7c8bdeebaab8a566c1451ff1b590a468cb78d06770e1f60ab780380c75bcc2"
+                  },
+                  {
+                      "name":  "m8.dff",
+                      "path":  "char/hair/m8.dff",
+                      "size":  395656,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8aedeef709384039346c.dff",
+                      "gpu":  "all",
+                      "sha256":  "10862f76b118639008ae73c627ab0cef433d627c851a451cc5d487fabcd9a116"
+                  },
+                  {
+                      "name":  "m9.dff",
+                      "path":  "char/hair/m9.dff",
+                      "size":  406524,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6f632d6e473330a17071.dff",
+                      "gpu":  "all",
+                      "sha256":  "74b49263bf450ffca91ac763fded591384c18330d711b68644f2dcc6254a6457"
+                  },
+                  {
                       "name":  "360Default1280x720.cfg",
                       "path":  "data/360Default1280x720.cfg",
                       "size":  10898,
@@ -2463,6 +3247,86 @@
                       "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-db421bc098af0a373cac.txt",
                       "gpu":  "all",
                       "sha256":  "401a71cd2fa8996d6b0d985e285453554f86cbf90ffa5f87979c253a570a8289"
+                  },
+                  {
+                      "name":  "alpine_char.dxt.dat",
+                      "path":  "texdb/alpine_char/alpine_char.dxt.dat",
+                      "size":  195379636,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c2e7e903c138b92789e3.dat",
+                      "gpu":  "dxt",
+                      "sha256":  "200f1384871e60e6ec8d14a806eff525dade26f5703bdb4019a227b42c15aecb"
+                  },
+                  {
+                      "name":  "alpine_char.dxt.tmb",
+                      "path":  "texdb/alpine_char/alpine_char.dxt.tmb",
+                      "size":  151664,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-2f34a922b6fa4fd03add.tmb",
+                      "gpu":  "dxt",
+                      "sha256":  "737ec7d6047695b35e40ce4c18a29e7dbe3191b9b7e8aaf2ea33f6de5e1da212"
+                  },
+                  {
+                      "name":  "alpine_char.dxt.toc",
+                      "path":  "texdb/alpine_char/alpine_char.dxt.toc",
+                      "size":  10180,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c8c692414f062f882b7e.toc",
+                      "gpu":  "dxt",
+                      "sha256":  "dcbeb3fb4200c706710a835da7ce3d9d2e5757a82924cf3ed10fc7400b18d08e"
+                  },
+                  {
+                      "name":  "alpine_char.etc.dat",
+                      "path":  "texdb/alpine_char/alpine_char.etc.dat",
+                      "size":  300828960,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-8277a85d5b736fae044c.dat",
+                      "gpu":  "etc",
+                      "sha256":  "81f4de264109ebee27e2cee158abe99397d64197512252a68b127cbe3c7b39be"
+                  },
+                  {
+                      "name":  "alpine_char.etc.tmb",
+                      "path":  "texdb/alpine_char/alpine_char.etc.tmb",
+                      "size":  211106,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-276b68abde89cbf1da02.tmb",
+                      "gpu":  "etc",
+                      "sha256":  "b54aaeae2e573553f74cd912fc2e0ca10114e09536794af05cd1a24f004918c2"
+                  },
+                  {
+                      "name":  "alpine_char.etc.toc",
+                      "path":  "texdb/alpine_char/alpine_char.etc.toc",
+                      "size":  10180,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-b49503a9d11d59cbc705.toc",
+                      "gpu":  "etc",
+                      "sha256":  "4ff7dfa0a2f6e6c1f41d838cb39de7b35f67850db81fc9230bf677c1cbdab13b"
+                  },
+                  {
+                      "name":  "alpine_char.pvr.dat",
+                      "path":  "texdb/alpine_char/alpine_char.pvr.dat",
+                      "size":  142813156,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-567d1e3eea2268e31eed.dat",
+                      "gpu":  "pvr",
+                      "sha256":  "d4992510886a6b929ac42f88c6b50fdda792f8fe29dca1c8e81d25350c635e3e"
+                  },
+                  {
+                      "name":  "alpine_char.pvr.tmb",
+                      "path":  "texdb/alpine_char/alpine_char.pvr.tmb",
+                      "size":  122112,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-01e0e6f281bab7af7007.tmb",
+                      "gpu":  "pvr",
+                      "sha256":  "a877e5fcd64ba558168150e4c632e08dc3295da5c8f23226066ac4d24275a1d8"
+                  },
+                  {
+                      "name":  "alpine_char.pvr.toc",
+                      "path":  "texdb/alpine_char/alpine_char.pvr.toc",
+                      "size":  10180,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-c156efb06b223bd5d7e3.toc",
+                      "gpu":  "pvr",
+                      "sha256":  "35fd7553799b99aaa8620f2a94fe49628bdf4c2147c219c8c917c6835c2a5bf6"
+                  },
+                  {
+                      "name":  "alpine_char.txt",
+                      "path":  "texdb/alpine_char/alpine_char.txt",
+                      "size":  140661,
+                      "url":  "https://github.com/Lampiao1711/alpine-mobile-downloads/releases/download/v1.0.52/cache-6d13a9fc52609def188f.txt",
+                      "gpu":  "all",
+                      "sha256":  "b898e9fbb42899c043e2794baa8dddb1a6e51e28721b7fcd978b5aac9a8048d6"
                   },
                   {
                       "name":  "alpine_probe.dxt.dat",
